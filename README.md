@@ -1,6 +1,6 @@
-# 📍 Imvizar @ Snapchat AWE 2025 Hackathon
+# 📍 Team Doonav @ Snapchat AWE 2025 Hackathon
 
-Welcome to Imvizar’s submission for the **Snapchat AWE 2025 Hackathon**.
+Welcome to Doonav’s submission for the **Snapchat AWE 2025 Hackathon**.
 
 We're using this opportunity to explore the power of **location-based storytelling in augmented reality**, with a specific focus on **co-located experiences using Snap Spectacles** and Snap’s AR ecosystem.
 
@@ -8,7 +8,7 @@ We're using this opportunity to explore the power of **location-based storytelli
 
 ## 🌍 Our Vision
 
-At Imvizar, we believe the future of storytelling is spatial and place-aware. Augmented reality unlocks a new narrative medium, one where stories are tied not just to time and character, but to *location*. With Snap’s tools, we’re able to create experiences that respond to where the user is, what they see, and how they move.
+Doonav is made up of the team at Imvizar, where we believe the future of storytelling is spatial and place-aware. Augmented reality unlocks a new narrative medium, one where stories are tied not just to time and character, but to *location*. With Snap’s tools, we’re able to create experiences that respond to where the user is, what they see, and how they move.
 
 ---
 
@@ -63,7 +63,7 @@ True co-location is social. By designing for **multiple users in the same space*
 
 ---
 
-## 🧠 Team Imvizar
+## 🧠 Team Doonav
 
 Built with creative code and cultural curiosity by the **Imvizar** team.
 
