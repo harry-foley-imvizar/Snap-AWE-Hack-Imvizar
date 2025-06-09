@@ -1,0 +1,14 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 10ba32ec-367d-4634-89f0-59df48fb6695: "C:/Users/User/Documents/Hackathon/Scripts/Sequencer/Sequencer.js"
+    - 136fc32c-5c49-4e7e-8057-32c9152083be: "C:/Users/User/Documents/Hackathon/_HollywoodStar/ChineseTheatrePitch/Textures/props/dragon_emission.png"
+    - 1a4c6c98-78b5-4601-8be4-443c55ef6319: "C:/Users/User/Documents/Hackathon/_HollywoodStar/ChineseTheatrePitch/Textures/props/carpet_side_albedo.png"
+    - 2ccbb582-6ab4-4d31-b798-13c243eee7d5: "C:/Users/User/Documents/Hackathon/Scripts/Sequencer/SequencerTapStart.js"
+    - 3bba22e7-ad11-42fe-b1a5-fa65b0a6ce5b: "C:/Users/User/Documents/Hackathon/_HollywoodStar/ChineseTheatrePitch/Textures/props/carpet_side_normal.png"
+    - 3f42110e-5052-4e0b-8824-dc798c76555c: "C:/Users/User/Documents/Hackathon/_HollywoodStar/ChineseTheatrePitch/Textures/props/dragon_normal.png"
+    - 4465e16b-7d31-461d-8c06-8e9879d66f94: "C:/Users/User/Documents/Hackathon/_HollywoodStar/ChineseTheatrePitch/Textures/props/dragon_albedo.png"
+    - b5867257-1ca1-4465-808a-9a2983e2e09f: "C:/Users/User/Documents/Hackathon/Scripts/Players/RotationPlayer.js"
+    - cdac2747-704e-4d6f-a9db-da4ad876fd14: "C:/Users/User/Documents/Hackathon/_HollywoodStar/ChineseTheatrePitch/Textures/props/carpet_normal.png"
+    - fd18e86d-f5d4-4216-a2fc-8591769a2736: "C:/Users/User/Documents/Hackathon/_HollywoodStar/ChineseTheatrePitch/Textures/props/carpet_albedo.png"
+  options: 4

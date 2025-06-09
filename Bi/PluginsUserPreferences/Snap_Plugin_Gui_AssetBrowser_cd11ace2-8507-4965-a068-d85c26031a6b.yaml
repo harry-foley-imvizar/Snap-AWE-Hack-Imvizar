@@ -1,0 +1,276 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 270
+    values:
+      - Audio
+      - Audio/ElevenLabs_2025-06-04T13_50_57_Grandpa Spuds Oxley_pvc_sp78_s50_sb23_se0_b_m2.mp3
+      - Cartoon Bee.fbx
+      - Cartoon Bee.fbx/.hidden
+      - Cartoon Bee.fbx/.hidden/bee_black
+      - Cartoon Bee.fbx/.hidden/white
+      - Cartoon Bee.fbx/Animations
+      - Cartoon Bee.fbx/Animations/Armature_bee_Armature_bee_Armature_bee_idle
+      - Cartoon Bee.fbx/Cartoon Bee
+      - Cartoon Bee.fbx/Materials/bee_black
+      - Cartoon Bee.fbx/Materials/bee_wings
+      - Cartoon Bee.fbx/Materials/bee_yellow
+      - Cartoon Bee.fbx/Meshes
+      - Cartoon Bee.fbx/Meshes/bee
+      - Cartoon Bee.fbx/Meshes/bee1
+      - Cartoon Bee.fbx/Meshes/bee2
+      - Color Butterfly Pack
+      - Color Butterfly Pack/.hidden
+      - Color Butterfly Pack/.hidden/Body.ss_graph
+      - Color Butterfly Pack/.hidden/Material -wings-Blue_Butterfly.ss_graph
+      - Color Butterfly Pack/.hidden/Textures
+      - Color Butterfly Pack/.hidden/Textures/Base.png
+      - Color Butterfly Pack/.hidden/Textures/MaterialParams.png
+      - Color Butterfly Pack/.hidden/Textures/Normal.png
+      - Color Butterfly Pack/.hidden/Uber PBR.lsmat.mat
+      - Color Butterfly Pack/.hidden/Uber PBR1.lsmat.ss_graph
+      - Color Butterfly Pack/Butterfly Resources
+      - Color Butterfly Pack/Butterfly Resources/Animations
+      - Color Butterfly Pack/Butterfly Resources/Animations/Butterfly.animationLayer
+      - Color Butterfly Pack/Butterfly Resources/Animations/Plane.001.animationLayer
+      - Color Butterfly Pack/Butterfly Resources/Animations/RightWing.animationLayer
+      - Color Butterfly Pack/Butterfly Resources/Materials
+      - Color Butterfly Pack/Butterfly Resources/Materials/Body.mat
+      - Color Butterfly Pack/Butterfly Resources/Materials/Material -wings-Blue_Butterfly.mat
+      - Color Butterfly Pack/Butterfly Resources/Materials/Material-wings-green_butterfly.mat
+      - Color Butterfly Pack/Butterfly Resources/Materials/Material-wings-orange-butterfly.mat
+      - Color Butterfly Pack/Butterfly Resources/Materials/Material-wings-yellow-butterfly.mat
+      - Color Butterfly Pack/Butterfly Resources/Meshes
+      - Color Butterfly Pack/Butterfly Resources/Meshes/Cylinder 2.mesh
+      - Color Butterfly Pack/Butterfly Resources/Meshes/Cylinder.mesh
+      - Color Butterfly Pack/Butterfly Resources/Meshes/Plane.mesh
+      - Color Butterfly Pack/Butterfly Resources/Textures 2
+      - Color Butterfly Pack/Butterfly Resources/Textures 2/blue.png
+      - Color Butterfly Pack/Butterfly Resources/Textures 2/green.png
+      - Color Butterfly Pack/Butterfly Resources/Textures 2/pink.png
+      - Color Butterfly Pack/Butterfly Resources/Textures 2/white.png
+      - Color Butterfly Pack/Butterfly Resources/Textures 2/yellow.png
+      - Color Butterfly Pack/Color_Butterfly_Pack__ADD_TO_SCENE.prefab
+      - Color Butterfly Pack/Scene 2.animationMixerLayer
+      - Color Butterfly Pack/Scene 3.animationMixerLayer
+      - Color Butterfly Pack/Scene 4.animationMixerLayer
+      - Color Butterfly Pack/Scene.animationMixerLayer
+      - Custom Location AR.lspkg/Custom Locations__PLACE_IN_SCENE.prefab
+      - "Custom Location AR.lspkg/Location Asset [REPLACE_LOCATION_ID].location"
+      - Custom Location AR.lspkg/Materials
+      - Custom Location AR.lspkg/Materials/Hint Materials
+      - Custom Location AR.lspkg/Materials/Hint Materials/Go To Animation.mat
+      - Custom Location AR.lspkg/Materials/Hint Materials/Loading Ring.mat
+      - Custom Location AR.lspkg/Materials/Hint Materials/Location Icon 2.mat
+      - Custom Location AR.lspkg/Materials/Hint Materials/Location Icon.mat
+      - Custom Location AR.lspkg/Materials/LocationMesh.mat
+      - Custom Location AR.lspkg/Materials/PBR.mat
+      - Custom Location AR.lspkg/Materials/Segmentation.mat
+      - Custom Location AR.lspkg/Materials/Snapcode.mat
+      - Custom Location AR.lspkg/Meshes
+      - Custom Location AR.lspkg/Meshes/Box.mesh
+      - Custom Location AR.lspkg/Meshes/Location Mesh.location_mesh
+      - Custom Location AR.lspkg/Scripts
+      - Custom Location AR.lspkg/Scripts/CustomLocationController.js
+      - Custom Location AR.lspkg/Scripts/FrontCameraMirror.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Behavior.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/ParentToCamera.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/SetRenderOrder.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/SpectaclesDisable.ts
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/Tween.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenManager.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenAlpha.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenScreenTransform.js
+      - Custom Location AR.lspkg/Scripts/Information Scripts
+      - Custom Location AR.lspkg/Scripts/Information Scripts/CameraSetUp.js
+      - Custom Location AR.lspkg/Scripts/Information Scripts/LocationAssetInformation.js
+      - Custom Location AR.lspkg/Scripts/Information Scripts/MarkerGuide.js
+      - Custom Location AR.lspkg/Scripts/Status
+      - Custom Location AR.lspkg/Scripts/Status/StatusController.js
+      - Custom Location AR.lspkg/Shaders
+      - Custom Location AR.lspkg/Shaders/LocationMesh.ss_graph
+      - Custom Location AR.lspkg/Shaders/Segmentation.ss_graph
+      - Custom Location AR.lspkg/Shaders/UI.ss_graph
+      - Custom Location AR.lspkg/Shaders/flat.ss_graph
+      - Custom Location AR.lspkg/Shaders/pbr.ss_graph
+      - Custom Location AR.lspkg/Textures
+      - Custom Location AR.lspkg/Textures/Base.png
+      - Custom Location AR.lspkg/Textures/Device Camera Texture.deviceCameraTexture
+      - Custom Location AR.lspkg/Textures/Hint Textures
+      - Custom Location AR.lspkg/Textures/Hint Textures/failed_texture.png
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d/atlas_0.pvr
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d/go_to_anim
+      - "Custom Location AR.lspkg/Textures/Hint Textures/location_icon [REPLACE_ME].png"
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d/atlas_0.pvr
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d/point_at_anim
+      - Custom Location AR.lspkg/Textures/MaterialParams.png
+      - Custom Location AR.lspkg/Textures/Normal.png
+      - Custom Location AR.lspkg/Textures/Segmentation Textures
+      - Custom Location AR.lspkg/Textures/Segmentation Textures/Body Segmentation.segmentationTexture
+      - Custom Location AR.lspkg/Textures/Segmentation Textures/Portrait Background Segmentation.segmentationTexture
+      - Custom Location AR.lspkg/Textures/custom-landmarker-scan-1-a783491b4024b59080a5d840915eec86.png
+      - Custom Location AR.lspkg/Textures/loading_ring.png
+      - Custom Location AR.lspkg/package.native
+      - "Custom Location Asset [Input ID].location"
+      - Custom Location Mesh.location_mesh
+      - Cylinder.mesh
+      - Flowers
+      - Flowers/.hidden
+      - Flowers/.hidden/flowers01.ss_graph
+      - Flowers/Flowers.prefab
+      - Flowers/flowers_Resource
+      - Flowers/flowers_Resource/flowers_3D
+      - Flowers/flowers_Resource/flowers_3D/Materials
+      - Flowers/flowers_Resource/flowers_3D/Materials/flowers01.mat
+      - Flowers/flowers_Resource/flowers_3D/Materials/flowers02.mat
+      - Flowers/flowers_Resource/flowers_3D/Meshes
+      - Flowers/flowers_Resource/flowers_3D/Meshes/網格 2.mesh
+      - Flowers/flowers_Resource/flowers_3D/Meshes/網格 3.mesh
+      - Flowers/flowers_Resource/flowers_3D/Meshes/網格 4.mesh
+      - Flowers/flowers_Resource/flowers_3D/Meshes/網格.mesh
+      - Flowers/flowers_Resource/flowers_3D/Textures
+      - Flowers/flowers_Resource/flowers_3D/Textures/flowers01.png
+      - Flowers/flowers_Resource/flowers_3D/Textures/flowers02.png
+      - FrontCameraMirror.js
+      - Location Material.mat
+      - Materials
+      - Materials/Bi_black.mat
+      - Materials/Bi_wings.mat
+      - Materials/Bi_yellow.mat
+      - Materials/Bi_yellow.ss_graph
+      - Materials/Frown.mat
+      - Materials/Tap To Set Random Color Materials
+      - Materials/Tap To Set Random Color Materials/fox_body.mat
+      - Materials/Tap To Set Random Color Materials/fox_body.ss_graph
+      - Materials/Tap To Set Random Color Materials/fox_head.mat
+      - Materials/Tap To Set Random Color Materials/fox_jacket.mat
+      - Materials/Tap To Set Random Color Materials/fox_jacket.ss_graph
+      - Materials/Tap To Set Random Color Materials/fox_nose.mat
+      - Materials/Tap To Set Random Color Materials/fox_nose.ss_graph
+      - Medical pack.lspkg/Medical pack.fbx
+      - Medical pack.lspkg/Medical pack.fbx/.hidden
+      - Medical pack.lspkg/Medical pack.fbx/.hidden/BlackPlastic
+      - Medical pack.lspkg/Medical pack.fbx/.hidden/white
+      - Medical pack.lspkg/Medical pack.fbx/Materials
+      - Medical pack.lspkg/Medical pack.fbx/Materials/BlackPlastic
+      - Medical pack.lspkg/Medical pack.fbx/Materials/BlackPlastic.001
+      - Medical pack.lspkg/Medical pack.fbx/Materials/Buttons
+      - Medical pack.lspkg/Medical pack.fbx/Materials/Facemask
+      - Medical pack.lspkg/Medical pack.fbx/Materials/Glass
+      - Medical pack.lspkg/Medical pack.fbx/Materials/GreenPlastic
+      - Medical pack.lspkg/Medical pack.fbx/Materials/Label
+      - Medical pack.lspkg/Medical pack.fbx/Materials/Lines
+      - Medical pack.lspkg/Medical pack.fbx/Materials/Metal
+      - Medical pack.lspkg/Medical pack.fbx/Materials/Metal.001
+      - Medical pack.lspkg/Medical pack.fbx/Materials/Metal.002
+      - Medical pack.lspkg/Medical pack.fbx/Materials/Plastic
+      - Medical pack.lspkg/Medical pack.fbx/Materials/Purple
+      - Medical pack.lspkg/Medical pack.fbx/Materials/Screen
+      - Medical pack.lspkg/Medical pack.fbx/Materials/Vaccine
+      - Medical pack.lspkg/Medical pack.fbx/Materials/White
+      - Medical pack.lspkg/Medical pack.fbx/Materials/WhitePlastic
+      - Medical pack.lspkg/Medical pack.fbx/Medical pack
+      - Medical pack.lspkg/Medical pack.fbx/Meshes
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Cylinder.004
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Cylinder.005
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Cylinder.006
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Cylinder.007
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Cylinder.008
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Cylinder.009
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Cylinder.010
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Cylinder.011
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Cylinder1.009
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Cylinder1.010
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Medical pack.001
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Plane
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Plane.001
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/Plane.002
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/kkkkkk
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/kkkkkk1
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/kkkkkk2
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/kkkkkk3
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/ll
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/medical pack
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/medical pack.001
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/medical pack1
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/medicalpack
+      - Medical pack.lspkg/Medical pack.fbx/Meshes/medicalpack.001
+      - Medical pack.lspkg/package.native
+      - Other
+      - Other/Base.png
+      - Other/Box.mesh
+      - Other/Echopark.hdr
+      - Other/MaterialParams.png
+      - Other/Normal.png
+      - Other/Sphere.mesh
+      - PBR.mat
+      - Rose
+      - Rose/.hidden
+      - Rose/.hidden/Rose_01.ss_graph
+      - Rose/Rose.prefab
+      - Rose/Rose_Resource
+      - Rose/Rose_Resource/Rose/Materials/Rose_01.mat
+      - Rose/Rose_Resource/Rose/Meshes
+      - Rose/Rose_Resource/Rose/Meshes/0020_01.mesh
+      - Rose/Rose_Resource/Rose/Textures
+      - Rose/Rose_Resource/Rose/Textures/Rose_Co.jpeg
+      - Script.js
+      - Scripts
+      - Scripts/Players/AnimationPlayer.js
+      - Scripts/Players/AudioPlayer.js
+      - Scripts/Players/ColorPlayer.js
+      - Scripts/Players/FadePlayer.js
+      - Scripts/Players/PositionPlayer.js
+      - Scripts/Players/RotationPlayer.js
+      - Scripts/Players/ScalePlayer.js
+      - Scripts/Sequencer/Sequencer.js
+      - Scripts/Sequencer/SequencerTapStart.js
+      - The Dreamy Fox
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/.hidden
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/.hidden/body
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/.hidden/white
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/BaseLayer
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/Fox
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/Materials
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/Materials/body
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/Materials/hat
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/Materials/head
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/Materials/jacket
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/Materials/nose
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/Meshes
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/Meshes/Body_GEO
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/Meshes/Hat1_GEO
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/Meshes/Jacket_GEO
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/Meshes/head_GEO
+      - The Dreamy Fox/Dreamy Fox Resources/3D Objects/Fox.fbx/Meshes/nose_GEO
+      - The Dreamy Fox/Dreamy Fox Resources/Materials/Tap To Set Random Color Materials/fox_body.mat
+      - The Dreamy Fox/Dreamy Fox Resources/Materials/Tap To Set Random Color Materials/fox_head.mat
+      - The Dreamy Fox/Dreamy Fox Resources/Materials/Tap To Set Random Color Materials/fox_jacket.mat
+      - The Dreamy Fox/Dreamy Fox Resources/Materials/Tap To Set Random Color Materials/fox_nose.mat
+      - The Dreamy Fox/Dreamy Fox Resources/Shaders/fox_body.ss_graph
+      - The Dreamy Fox/Dreamy Fox Resources/Shaders/fox_jacket.ss_graph
+      - The Dreamy Fox/Dreamy Fox Resources/Shaders/fox_nose.ss_graph
+      - The Dreamy Fox/Dreamy Fox Resources/Textures
+      - The Dreamy Fox/Dreamy Fox Resources/Textures/Base.png
+      - The Dreamy Fox/Dreamy Fox Resources/Textures/body_base.pvr
+      - The Dreamy Fox/Dreamy Fox Resources/Textures/body_materialParams.pvr
+      - The Dreamy Fox/Dreamy Fox Resources/Textures/body_normal.pvr
+      - The Dreamy Fox/Dreamy Fox Resources/Textures/head_base.pvr
+      - The Dreamy Fox/Dreamy Fox Resources/Textures/head_normal.pvr
+      - The Dreamy Fox/Dreamy Fox Resources/Textures/jacket_base.pvr
+      - The Dreamy Fox/Dreamy Fox Resources/Textures/jacket_materialParams.pvr
+      - The Dreamy Fox/Dreamy Fox Resources/Textures/jacket_normal.pvr
+      - The Dreamy Fox/Dreamy Fox Resources/Textures/white.png
+      - The Dreamy Fox/Dreamy Fox__ADD_TO_SCENE.prefab
+      - location_material.ss_graph
+      - pbr.ss_graph
+  options: 4

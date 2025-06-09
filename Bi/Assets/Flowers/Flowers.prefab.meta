@@ -1,0 +1,317 @@
+- !<AssetImportMetadata/7c403a5e-dfad-4cae-b8ec-e405422ac38f>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> a5e17a62-d69f-4446-a57c-f770e57a36c1
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> a5e17a62-d69f-4446-a57c-f770e57a36c1
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    AssetLibraryId: 4WhZqn8RoP4719JHG7UkfW
+  AssetDataMap:
+    ObjectPrefab: !<own> 1f3c8965-e041-4c65-b616-bab368f59c02
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/07104e7c-cdb1-4490-968a-90ad96de8152>
+  PrefabRemaps:
+    []
+  Name: flowers03
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.067521, y: 0.094332, z: -0.070787}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.010000, y: 0.010000, z: 0.010000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5121b1df-e4db-4e91-adf5-06c8139f213f
+- !<SceneObject/0dcee6d7-af9d-4fbb-a537-bf5ad8a82761>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 37d8ea78-5924-4aac-9da8-fdd8b5564bca
+  Components:
+    []
+- !<ObjectPrefabAssetData/1f3c8965-e041-4c65-b616-bab368f59c02>
+  SourceRemaps:
+    - 0d1559dd-f74f-4466-872d-968beb414543: d482e474-bf2e-4d8a-9ad8-19e04639006d
+    - 131a1ca5-ade0-4bf3-b50b-72d3eb687a66: 997b515f-c87c-4421-b57f-7a4d74deb7b6
+    - 15043bf9-a096-447f-9148-fcc859a01582: 6dd4df18-d97b-4a8b-ad53-494dcfeaba0c
+    - 1905a31a-00a1-4924-9954-abfc48c02db0: 37d8ea78-5924-4aac-9da8-fdd8b5564bca
+    - 1d09b88d-79ff-4a3c-a1ab-2907eeb85fc2: bc5a89f3-83ad-4763-9601-2d0c627934ff
+    - 46ef75e1-ad5e-4b17-bb04-89ab31509995: e947c545-c92e-47cc-8da7-242f334a7eec
+    - 54d70f28-5ab8-4411-a674-e663d2dfc55c: 0dcee6d7-af9d-4fbb-a537-bf5ad8a82761
+    - 7011491c-dd58-4b78-af4f-22bb0431a45f: 4c317e82-58bd-4eaa-b9fb-8666c4992c87
+    - 9155ec0f-c243-46fb-b206-c5c739e27aa2: 07104e7c-cdb1-4490-968a-90ad96de8152
+    - a5e17a62-d69f-4446-a57c-f770e57a36c1: 2c584352-3af2-48c3-b7bd-0ed737e0c239
+    - ba3ab377-87f4-42cb-a49c-4a9acf7d7be4: b19cbb3d-d833-420c-b078-c1480388a85d
+    - f18dfee4-01f3-46a8-8ec8-a7ac6008f6c3: 5121b1df-e4db-4e91-adf5-06c8139f213f
+  SourceState: !<own> 2c584352-3af2-48c3-b7bd-0ed737e0c239
+- !<ObjectPrefab/2c584352-3af2-48c3-b7bd-0ed737e0c239>
+  PackagePath: ""
+  objects:
+    - !<own> e947c545-c92e-47cc-8da7-242f334a7eec
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/37d8ea78-5924-4aac-9da8-fdd8b5564bca>
+  PrefabRemaps:
+    []
+  Name: Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 997b515f-c87c-4421-b57f-7a4d74deb7b6
+    - !<own> bc5a89f3-83ad-4763-9601-2d0c627934ff
+    - !<own> 07104e7c-cdb1-4490-968a-90ad96de8152
+    - !<own> 4c317e82-58bd-4eaa-b9fb-8666c4992c87
+  Components:
+    []
+- !<SceneObject/4c317e82-58bd-4eaa-b9fb-8666c4992c87>
+  PrefabRemaps:
+    []
+  Name: flowers04
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.055159, y: 0.111820, z: -0.069159}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.010000, y: 0.010000, z: 0.010000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b19cbb3d-d833-420c-b078-c1480388a85d
+- !<RenderMeshVisual/5121b1df-e4db-4e91-adf5-06c8139f213f>
+  PrefabRemaps:
+    []
+  Name: 網格.002
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 690007cf-c44a-4db6-b890-3c89512664dd
+  Mesh: !<reference> ee6053da-d7d7-411e-bb24-8868ad2322fb
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<RayTracingVisualSettings>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: false
+        roughHarden: -1.000000
+        roughCurve: -1.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<RenderMeshVisual/6dd4df18-d97b-4a8b-ad53-494dcfeaba0c>
+  PrefabRemaps:
+    []
+  Name: 網格
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b4442521-bc38-4c23-ac96-472791aa448b
+  Mesh: !<reference> 94343827-37d1-4f1c-954d-ab60d24ef205
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<RayTracingVisualSettings>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: false
+        roughHarden: -1.000000
+        roughCurve: -1.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<SceneObject/997b515f-c87c-4421-b57f-7a4d74deb7b6>
+  PrefabRemaps:
+    []
+  Name: flowers01
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.077556, y: 0.101331, z: -0.056342}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.010000, y: 0.010000, z: 0.010000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6dd4df18-d97b-4a8b-ad53-494dcfeaba0c
+- !<RenderMeshVisual/b19cbb3d-d833-420c-b078-c1480388a85d>
+  PrefabRemaps:
+    []
+  Name: 網格.003
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 690007cf-c44a-4db6-b890-3c89512664dd
+  Mesh: !<reference> 0b1cff9c-de68-4e33-a828-820e0e2d284a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<RayTracingVisualSettings>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: false
+        roughHarden: -1.000000
+        roughCurve: -1.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<SceneObject/bc5a89f3-83ad-4763-9601-2d0c627934ff>
+  PrefabRemaps:
+    []
+  Name: flowers02
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.053105, y: 0.123982, z: -0.057867}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.010000, y: 0.010000, z: 0.010000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d482e474-bf2e-4d8a-9ad8-19e04639006d
+- !<RenderMeshVisual/d482e474-bf2e-4d8a-9ad8-19e04639006d>
+  PrefabRemaps:
+    []
+  Name: 網格.001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b4442521-bc38-4c23-ac96-472791aa448b
+  Mesh: !<reference> 4d04c569-80ca-4897-baf3-3716c2b11dce
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<RayTracingVisualSettings>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: false
+        roughHarden: -1.000000
+        roughCurve: -1.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<SceneObject/e947c545-c92e-47cc-8da7-242f334a7eec>
+  PrefabRemaps:
+    []
+  Name: flowers_PUT_ON_HEAD
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0dcee6d7-af9d-4fbb-a537-bf5ad8a82761
+  Components:
+    []

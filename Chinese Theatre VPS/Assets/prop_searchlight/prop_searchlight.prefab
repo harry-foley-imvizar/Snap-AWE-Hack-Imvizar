@@ -1,0 +1,143 @@
+- !<ObjectPrefab/b3ecd5f0-bcf9-43a3-acc8-109c32fef0a2>
+  PackagePath: ""
+  objects:
+    - !<own> 80c73bdd-50d3-4ae0-abdd-fef4313d3996
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/3075abe9-2b26-46bb-a783-411741d9d0b8>
+  PrefabRemaps:
+    []
+  Name: prop_searchlight_main | Geometric
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -45.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 438a9aef-cdbc-4585-a2a4-43586e9ffe74
+    - !<own> 6d5171c9-1491-43a8-9dac-bdb2a4512c24
+- !<RenderMeshVisual/438a9aef-cdbc-4585-a2a4-43586e9ffe74>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 1586c5f9-a25d-4adf-a65b-2f9de3f9d4cc
+  Mesh: !<reference> b18bc98e-71f4-48dc-a5f4-8188d4d0a885
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/5c481507-5c60-460d-8905-a71f082de8dc>
+  PrefabRemaps:
+    []
+  Name: prop_searchlight_main
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 58.441093, z: -0.119640}
+    rotation: {x: -45.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3075abe9-2b26-46bb-a783-411741d9d0b8
+  Components:
+    []
+- !<RenderMeshVisual/6d5171c9-1491-43a8-9dac-bdb2a4512c24>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> cbfa6948-2b3f-45f6-bd90-ae5250c671e4
+  Mesh: !<reference> 4ac6ac49-e454-4f86-97f1-4db59afc389a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/80c73bdd-50d3-4ae0-abdd-fef4313d3996>
+  PrefabRemaps:
+    []
+  Name: prop_searchlight
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> a37fbef5-9953-499e-a4d5-2d5ee5971e5f
+  Components:
+    []
+- !<SceneObject/a37fbef5-9953-499e-a4d5-2d5ee5971e5f>
+  PrefabRemaps:
+    []
+  Name: prop_searchlight_base
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> ae237f60-2316-43ee-b750-da38ee648202
+    - !<own> 5c481507-5c60-460d-8905-a71f082de8dc
+  Components:
+    []
+- !<RenderMeshVisual/a4cd2bcb-4037-4df9-80fb-da5716ee3564>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 1586c5f9-a25d-4adf-a65b-2f9de3f9d4cc
+  Mesh: !<reference> c8670404-6687-4036-a940-f8fd260bff39
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/ae237f60-2316-43ee-b750-da38ee648202>
+  PrefabRemaps:
+    []
+  Name: prop_searchlight_base | Geometric
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a4cd2bcb-4037-4df9-80fb-da5716ee3564

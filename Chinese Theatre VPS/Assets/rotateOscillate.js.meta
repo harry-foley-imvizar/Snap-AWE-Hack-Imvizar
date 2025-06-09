@@ -1,0 +1,46 @@
+- !<AssetImportMetadata/ca58d137-f842-45b3-8abb-07468d421548>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 47b307a5-3ffe-4119-8e10-b8d9e14d0238
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 47b307a5-3ffe-4119-8e10-b8d9e14d0238
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> fa23f7b5-e175-406d-905b-0f953a67dc71
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/fa23f7b5-e175-406d-905b-0f953a67dc71>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: b65f7df2-f260-4bff-8c85-f42a7fb148bc
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    amplitudeDeg: false
+    axis: false
+    offsetDeg: false
+    speed: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - amplitudeDeg: !<float> 30.000000
+      axis: !<Vec3> {x: 1.000000, y: 0.000000, z: 0.000000}
+      speed: 0.100000
+      offsetDeg: !<float> -45.000000
+  ScriptTypes:
+    -
+      {}

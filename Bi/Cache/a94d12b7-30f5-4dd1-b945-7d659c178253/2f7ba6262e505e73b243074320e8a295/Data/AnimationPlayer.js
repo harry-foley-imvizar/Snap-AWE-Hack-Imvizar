@@ -1,0 +1,16 @@
+// @input float triggerTime = 5.0 {"label": "Trigger Time (seconds)"}
+// @input Component.AnimationPlayer animationPlayer {"label": "Animation Player"}
+// @input string clipName = "Clip_01" {"label": "Clip Name"}
+// @input bool looping = false {"label": "Loop Animation"}
+
+function onTrigger() {
+    if (!script.animationPlayer) return;
+    
+    script.animationPlayer.setClipLooping(script.clipName, script.looping);
+    script.animationPlayer.playClip(script.clipName);
+    print("AnimationPlayer: Playing clip " + script.clipName + " (looping: " + script.looping + ")");
+}
+
+if (global.sequencer) {
+    global.sequencer.api.subscribe(script.triggerTime, onTrigger);
+}

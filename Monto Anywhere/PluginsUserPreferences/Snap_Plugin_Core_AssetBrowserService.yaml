@@ -1,0 +1,11 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 30344a85-8116-4303-9337-734db4752445: "C:/Users/User/Documents/Hackathon/nicheShop/Assets/shop/shop.prefab"
+    - 666a248a-abe9-4167-baab-31a43cbf8b2f: "C:/Users/User/Documents/Hackathon/PXL_20250603_093929972.jpg"
+    - a36466e5-a385-4c2d-a5ac-45efd20852b6: "C:/Users/User/Documents/Hackathon/PXL_20250603_093929972.jpg"
+    - afe31fd8-0557-4b78-900c-f6400d35fa88: "C:/Users/User/wkspaces/ImvizarApp/Assets/_Monto/Models/4 lampost/Lilly/Blue_dressvariation/ladies.fbx"
+    - b3eefb63-3cf3-4201-8d06-f200e82b26be: "C:/Users/User/Downloads/stop3.mp3"
+    - cb8c0ce6-300b-4516-97bd-52028ed004ed: "C:/Users/User/Documents/Hackathon/shopredux1.fbx"
+    - eeab69ab-4f73-49bc-894e-5e170d072894: "C:/Users/User/Documents/Hackathon/PXL_20250603_093929972.jpg"
+  options: 4

@@ -1,0 +1,578 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 572
+    values:
+      - Behavior.js
+      - Carriage_D 2.png
+      - Carriage_D.png
+      - Carriage_N.png
+      - Carriage_R.png
+      - Connected Lens Module.connectedLensModule
+      - Custom Location AR.lspkg
+      - Custom Location AR.lspkg/Custom Locations__PLACE_IN_SCENE.prefab
+      - "Custom Location AR.lspkg/Location Asset [REPLACE_LOCATION_ID].location"
+      - Custom Location AR.lspkg/Materials
+      - Custom Location AR.lspkg/Materials/Hint Materials
+      - Custom Location AR.lspkg/Materials/Hint Materials/Go To Animation.mat
+      - Custom Location AR.lspkg/Materials/Hint Materials/Loading Ring.mat
+      - Custom Location AR.lspkg/Materials/Hint Materials/Location Icon 2.mat
+      - Custom Location AR.lspkg/Materials/Hint Materials/Location Icon.mat
+      - Custom Location AR.lspkg/Materials/LocationMesh.mat
+      - Custom Location AR.lspkg/Materials/PBR.mat
+      - Custom Location AR.lspkg/Materials/Segmentation.mat
+      - Custom Location AR.lspkg/Materials/Snapcode.mat
+      - Custom Location AR.lspkg/Meshes
+      - Custom Location AR.lspkg/Meshes/Box.mesh
+      - Custom Location AR.lspkg/Meshes/Location Mesh.location_mesh
+      - Custom Location AR.lspkg/Scripts
+      - Custom Location AR.lspkg/Scripts/CustomLocationController.js
+      - Custom Location AR.lspkg/Scripts/FrontCameraMirror.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Behavior.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/ParentToCamera.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/SetRenderOrder.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/SpectaclesDisable.ts
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/Tween.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenManager.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenAlpha.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenScreenTransform.js
+      - Custom Location AR.lspkg/Scripts/Information Scripts
+      - Custom Location AR.lspkg/Scripts/Information Scripts/CameraSetUp.js
+      - Custom Location AR.lspkg/Scripts/Information Scripts/LocationAssetInformation.js
+      - Custom Location AR.lspkg/Scripts/Information Scripts/MarkerGuide.js
+      - Custom Location AR.lspkg/Scripts/Status
+      - Custom Location AR.lspkg/Scripts/Status/StatusController.js
+      - Custom Location AR.lspkg/Shaders
+      - Custom Location AR.lspkg/Shaders/LocationMesh.ss_graph
+      - Custom Location AR.lspkg/Shaders/Segmentation.ss_graph
+      - Custom Location AR.lspkg/Shaders/UI.ss_graph
+      - Custom Location AR.lspkg/Shaders/flat.ss_graph
+      - Custom Location AR.lspkg/Shaders/pbr.ss_graph
+      - Custom Location AR.lspkg/Textures
+      - Custom Location AR.lspkg/Textures/Base.png
+      - Custom Location AR.lspkg/Textures/Device Camera Texture.deviceCameraTexture
+      - Custom Location AR.lspkg/Textures/Hint Textures
+      - Custom Location AR.lspkg/Textures/Hint Textures/failed_texture.png
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d/atlas_0.pvr
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d/go_to_anim
+      - "Custom Location AR.lspkg/Textures/Hint Textures/location_icon [REPLACE_ME].png"
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d/atlas_0.pvr
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d/point_at_anim
+      - Custom Location AR.lspkg/Textures/MaterialParams.png
+      - Custom Location AR.lspkg/Textures/Normal.png
+      - Custom Location AR.lspkg/Textures/Segmentation Textures
+      - Custom Location AR.lspkg/Textures/Segmentation Textures/Body Segmentation.segmentationTexture
+      - Custom Location AR.lspkg/Textures/Segmentation Textures/Portrait Background Segmentation.segmentationTexture
+      - Custom Location AR.lspkg/Textures/custom-landmarker-scan-1-a783491b4024b59080a5d840915eec86.png
+      - Custom Location AR.lspkg/Textures/loading_ring.png
+      - Custom Location AR.lspkg/package.native
+      - Device Camera Texture.deviceCameraTexture
+      - Echopark.hdr
+      - Echopark.hdr/Diffuse
+      - Echopark.hdr/Specular
+      - Empty Image Marker.imgmarker
+      - FrontCameraMirror.js
+      - Hint - Scan Room
+      - Hint - Scan Room (Dots)
+      - Hint - Scan Room (Dots)/.hidden
+      - Hint - Scan Room (Dots)/.hidden/SpriteGraphPreset.lsmat.mat
+      - Hint - Scan Room (Dots)/.hidden/SpriteGraphPreset1.lsmat.ss_graph
+      - Hint - Scan Room (Dots)/Custom Hint Resources
+      - Hint - Scan Room (Dots)/Custom Hint Resources/Resources
+      - Hint - Scan Room (Dots)/Custom Hint Resources/Resources/Textures
+      - Hint - Scan Room (Dots)/Custom Hint Resources/Resources/Textures/Animated
+      - Hint - Scan Room (Dots)/Custom Hint Resources/Resources/Textures/Animated/Hint_Scan_Room_Dots
+      - Hint - Scan Room (Dots)/Custom Hint Resources/Resources/Textures/Animated/Hint_Scan_Room_Dots/Hint_Scan_Room_Dots.lensanim
+      - Hint - Scan Room (Dots)/Custom Hint Resources/Resources/Textures/Animated/Hint_Scan_Room_Dots/Hint_Scan_Room_Dots.lensanim/Hint_Look_For_Surface_3.png
+      - Hint - Scan Room (Dots)/Custom Hint Resources/Resources/Textures/Animated/Hint_Scan_Room_Dots/Hint_Scan_Room_Dots.lensanim/Hint_Scan_Room_Dots
+      - Hint - Scan Room (Dots)/Custom Hint Resources/Scripts
+      - Hint - Scan Room (Dots)/Custom Hint Resources/Scripts/CustomHint.js
+      - Hint - Scan Room (Dots)/Hint - Scan Room (Dots).prefab
+      - Hint - Scan Room/.hidden
+      - Hint - Scan Room/.hidden/SpriteGraphPreset.lsmat.mat
+      - Hint - Scan Room/.hidden/SpriteGraphPreset1.lsmat.ss_graph
+      - Hint - Scan Room/Custom Hint Resources
+      - Hint - Scan Room/Custom Hint Resources/Resources
+      - Hint - Scan Room/Custom Hint Resources/Resources/Textures
+      - Hint - Scan Room/Custom Hint Resources/Resources/Textures/Animated
+      - Hint - Scan Room/Custom Hint Resources/Resources/Textures/Animated/Hint_Scan_room
+      - Hint - Scan Room/Custom Hint Resources/Resources/Textures/Animated/Hint_Scan_room/Hint_Scan_room.lensanim
+      - Hint - Scan Room/Custom Hint Resources/Resources/Textures/Animated/Hint_Scan_room/Hint_Scan_room.lensanim/Hint_Look_For_Surface_1.png
+      - Hint - Scan Room/Custom Hint Resources/Resources/Textures/Animated/Hint_Scan_room/Hint_Scan_room.lensanim/Hint_Scan_room
+      - Hint - Scan Room/Custom Hint Resources/Scripts
+      - Hint - Scan Room/Custom Hint Resources/Scripts/CustomHint.js
+      - Hint - Scan Room/Hint - Scan Room.prefab
+      - Horse_Albedo_1.tif
+      - "Image Marker [EDIT_ME] 2.imgmarker"
+      - "Image Marker [EDIT_ME].imgmarker"
+      - ImageMaterial.mat
+      - Kitty
+      - Kitty 2
+      - Kitty 2/Kitty__ADD_TO_SCENE.prefab
+      - Kitty 2/Resources
+      - Kitty 2/Resources/3D Objects
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/.hidden
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/.hidden/blinn1
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/.hidden/white
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/BaseLayer
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/Kitty_NoLayer
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/Materials
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/Materials/blinn1
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/collar_lo
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface1
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface2
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface3
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface4
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface5
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface6
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface7
+      - Kitty 2/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/tag_lo
+      - Kitty 2/Resources/Materials
+      - Kitty 2/Resources/Materials/cat_pbr.mat
+      - Kitty 2/Resources/Shader
+      - Kitty 2/Resources/Shader/cat_pbr.ss_graph
+      - Kitty 2/Resources/Textures
+      - Kitty 2/Resources/Textures/cat_base_02.pvr
+      - Kitty 2/Resources/Textures/cat_normal_02.pvr
+      - Kitty 2/Resources/Textures/cat_param_02.pvr
+      - Kitty 3
+      - Kitty 3/Kitty__ADD_TO_SCENE.prefab
+      - Kitty 3/Resources
+      - Kitty 3/Resources/3D Objects
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/.hidden
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/.hidden/blinn1
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/.hidden/white
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/BaseLayer
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/Kitty_NoLayer
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/Materials
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/Materials/blinn1
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/collar_lo
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface1
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface2
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface3
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface4
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface5
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface6
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface7
+      - Kitty 3/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/tag_lo
+      - Kitty 3/Resources/Materials
+      - Kitty 3/Resources/Materials/cat_pbr.mat
+      - Kitty 3/Resources/Shader
+      - Kitty 3/Resources/Shader/cat_pbr.ss_graph
+      - Kitty 3/Resources/Textures
+      - Kitty 3/Resources/Textures/cat_base_02.pvr
+      - Kitty 3/Resources/Textures/cat_normal_02.pvr
+      - Kitty 3/Resources/Textures/cat_param_02.pvr
+      - Kitty/Kitty__ADD_TO_SCENE.prefab
+      - Kitty/Resources/3D Objects
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/.hidden
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/.hidden/blinn1
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/.hidden/white
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/BaseLayer
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/Kitty_NoLayer
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/Materials
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/Materials/blinn1
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/collar_lo
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface1
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface2
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface3
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface4
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface5
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface6
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/polySurface7
+      - Kitty/Resources/3D Objects/Kitty_NoLayer.fbx/Meshes/tag_lo
+      - Kitty/Resources/Shader/cat_pbr.ss_graph
+      - Kitty/Resources/Textures
+      - Kitty/Resources/Textures/cat_base_02.pvr
+      - Kitty/Resources/Textures/cat_normal_02.pvr
+      - Kitty/Resources/Textures/cat_param_02.pvr
+      - Lilly_V01_mode_MNT_080224
+      - Lilly_V01_mode_MNT_080224/.hidden
+      - Lilly_V01_mode_MNT_080224/.hidden/Lilly_Face.ss_graph
+      - Lilly_V01_mode_MNT_080224/.hidden/white.jpg
+      - Lilly_V01_mode_MNT_080224/Animations
+      - Lilly_V01_mode_MNT_080224/Animations/BaseLayer.animationAsset
+      - Lilly_V01_mode_MNT_080224/Lilly_V01_mode_MNT_080224.prefab
+      - Lilly_V01_mode_MNT_080224/Materials
+      - Lilly_V01_mode_MNT_080224/Materials/Lilly_Face.mat
+      - Lilly_V01_mode_MNT_080224/Materials/Lilly_clothes.mat
+      - Lilly_V01_mode_MNT_080224/Materials/eyes.mat
+      - Lilly_V01_mode_MNT_080224/Materials/teeth.mat
+      - Lilly_V01_mode_MNT_080224/Meshes
+      - Lilly_V01_mode_MNT_080224/Meshes/Dress.mesh
+      - Lilly_V01_mode_MNT_080224/Meshes/Eye_L.mesh
+      - Lilly_V01_mode_MNT_080224/Meshes/Eye_R.mesh
+      - Lilly_V01_mode_MNT_080224/Meshes/Face.mesh
+      - Lilly_V01_mode_MNT_080224/Meshes/Glove_L.mesh
+      - Lilly_V01_mode_MNT_080224/Meshes/Glove_R.mesh
+      - Lilly_V01_mode_MNT_080224/Meshes/Hair.mesh
+      - Lilly_V01_mode_MNT_080224/Meshes/Hat.mesh
+      - Lilly_V01_mode_MNT_080224/Meshes/Heel_L.mesh
+      - Lilly_V01_mode_MNT_080224/Meshes/Heel_R.mesh
+      - Lilly_V01_mode_MNT_080224/Meshes/Leg_L.mesh
+      - Lilly_V01_mode_MNT_080224/Meshes/Leg_R.mesh
+      - Lilly_V01_mode_MNT_080224/Meshes/flowers.mesh
+      - Lilly_V01_mode_MNT_080224/Meshes/teeth.mesh
+      - Lilly_low_Lilly_Face_AlbedoTransparency 2.png
+      - Lilly_low_Lilly_Face_AlbedoTransparency.png
+      - Lilly_low_eyes_AlbedoTransparency 2.png
+      - Lilly_low_eyes_AlbedoTransparency.png
+      - Lilly_low_teeth_AlbedoTransparency.png
+      - Lily01_Clothes_DiffuseBaked.png
+      - Lily02_Clothes_DiffuseBaked.png
+      - Lily03_Clothes_DiffuseBaked.png
+      - Location Material.mat
+      - MayOblong_v01_mode_MNT_040324_Clothes_AlbedoTransparency.png
+      - MayOblong_v01_mode_MNT_040324_Clothes_MetallicSmoothness.png
+      - MayOblong_v01_mode_MNT_040324_Clothes_Normal.png
+      - MayOblong_v01_mode_MNT_040324_FAce_AlbedoTransparency.png
+      - MayOblong_v01_mode_MNT_040324_FAce_MetallicSmoothness.png
+      - MayOblong_v01_mode_MNT_040324_FAce_Normal.png
+      - MayOblong_v01_mode_MNT_040324_eyes_AlbedoTransparency 2.png
+      - MayOblong_v01_mode_MNT_040324_eyes_AlbedoTransparency.png
+      - MayOblong_v01_mode_MNT_040324_eyes_MetallicSmoothness.png
+      - MayOblong_v01_mode_MNT_040324_teeth_AlbedoTransparency.png
+      - May_Shopfront_03_Shopfront_Normal.png
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX.prefab
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/.hidden
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/.hidden/FBX1_Boy_Rigged_Final1_model_Clothes_Tex.ss_graph
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/.hidden/white.jpg
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/AnimLayer1.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/AnimLayer2.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/BaseLayer.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/Boy_01_Run.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/Boy_02_Run.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/Boy_03_Run.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/Boys_Idle.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/Boys_Run_ADJ.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/Carriage_Movement.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/Driver_Position.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/FBX1_Boys_Idle.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/FBX_AnimLayerRoot.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/Girls_Walk.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/Girls_and_May_ADJ.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/Horse_and_Cart_ADJ.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Animations/May_Oblong_Animated_01_BaseAnimation.animationAsset
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Hair Assets
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Hair Assets/MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX.hair
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Base.png
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX1_Boy_Rigged_Final1_model_Clothes_Tex.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX1_Boy_Rigged_Final1_model_Eye_Tex_01.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX1_Boy_Rigged_Final1_model_Eye_Tex_02.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX1_Boy_Rigged_Final1_model_Skin_Tex.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX1_Boy_Rigged_Final2_model_Clothes_Tex.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX1_Boy_Rigged_Final2_model_Eye_Tex_01.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX1_Boy_Rigged_Final2_model_Eye_Tex_02.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX1_Boy_Rigged_Final2_model_Skin_Tex.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX1_Boy_Rigged_Final_model_Clothes_Tex.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX1_Boy_Rigged_Final_model_Eye_Tex_01.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX1_Boy_Rigged_Final_model_Eye_Tex_02.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX1_Boy_Rigged_Final_model_Skin_Tex.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX_lambert3.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX_lambert4.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/FBX_lambert5.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Fancyman_Animated_Mixamo_01_Rua_clothing.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Fancyman_Animated_Mixamo_01_Rua_eyes.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Fancyman_Animated_Mixamo_01_Rua_face.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Horse_and_Carriage___Rigged_CarriageSub.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Horse_and_Carriage___Rigged_Horse.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig1_Lilly_Face_old.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig1_model_Legs_Transparent_TEX.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig1_model_Lilly_clothes_New.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig1_model_eyes.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig1_model_teeth.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig2_Lilly_Face_old.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig2_model_Legs_Transparent_TEX.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig2_model_Lilly_clothes_New.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig2_model_eyes.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig2_model_teeth.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig3_Lilly_Face_old.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig3_model_Legs_Transparent_TEX.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig3_model_Lilly_clothes_New.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig3_model_eyes.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Lily___Final_Rig3_model_teeth.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/MaterialParams.png
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/May_Oblong___Final_Rig_model_Clothes.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/May_Oblong___Final_Rig_model_FAce.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/May_Oblong___Final_Rig_model_Lilly_clothes.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/May_Oblong___Final_Rig_model_eyes.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/May_Oblong___Final_Rig_model_teeth.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/Normal.png
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/ffface.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/pbr.ss_graph
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Materials/standardSurface1.mat
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final1_model_Body_Geo.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final1_model_Clothes_Geo.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final1_model_Eye_L_Geo.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final1_model_Eye_L_Geo1.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final1_model_Eye_R_Geo.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final1_model_Eye_R_Geo1.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final2_model_Body_Geo.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final2_model_Clothes_Geo.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final2_model_Eye_L_Geo.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final2_model_Eye_L_Geo1.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final2_model_Eye_R_Geo.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final2_model_Eye_R_Geo1.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final_model_Body_Geo.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final_model_Clothes_Geo.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final_model_Eye_L_Geo.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final_model_Eye_L_Geo1.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final_model_Eye_R_Geo.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX1_Boy_Rigged_Final_model_Eye_R_Geo1.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX_Clothes_GEO.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX_Eye_Lashes_GEO.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX_Eyebrows_GEO.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX_Hair_Cap_GEO.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX_Hair_GEO.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX_Hand_Left_GEO.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX_Hand_Right_GEO.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX_Head_GEO.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/FBX_Teeth_GEO.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Fancyman_Animated_Mixamo_01_Rua.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Fancyman_Animated_Mixamo_01_Rua1.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Fancyman_Animated_Mixamo_01_Rua2.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Horse_and_Carriage___Rigged_Carriage.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Horse_and_Carriage___Rigged_FrontAxle.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Horse_and_Carriage___Rigged_FrontWheels.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Horse_and_Carriage___Rigged_Horse_LOD0.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Horse_and_Carriage___Rigged_RearWheels.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_FBX_Dress.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Eye_L.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Eye_R.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Face.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Glove_L.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Glove_R.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Hair.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Hat.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Heel_L.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Heel_R.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Leg_L.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Leg_L1.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Leg_R.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Leg_R1.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Teeth_Lower.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Teeth_Upper.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_Tongue.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig1_model_flowers.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_FBX_Dress.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Eye_L.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Eye_R.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Face.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Glove_L.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Glove_R.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Hair.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Hat.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Heel_L.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Heel_R.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Leg_L.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Leg_L1.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Leg_R.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Leg_R1.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Teeth_Lower.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Teeth_Upper.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_Tongue.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig2_model_flowers.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_FBX_Dress.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Eye_L.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Eye_R.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Face.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Glove_L.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Glove_R.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Hair.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Hat.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Heel_L.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Heel_R.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Leg_L.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Leg_L1.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Leg_R.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Leg_R1.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Teeth_Lower.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Teeth_Upper.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_Tongue.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/Lily___Final_Rig3_model_flowers.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_BootL.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_BootR.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Dress001.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_EarringL.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_EarringR.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Eye_L.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Eye_R.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Face001.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Feather.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Fox.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Hand.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_HandL.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_HandR.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Hat001.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_MayOblong_Low.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Necklace.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Object001.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Object003.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Object004.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Object005.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Object007.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Object008.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Object009.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Object010.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_RingPinkyL.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Teeth_Lower.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Teeth_Upper.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_Tongue.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Meshes/May_Oblong___Final_Rig_model_flowers.mesh
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX.prefab
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Textures
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Textures/BoyClothes_DF.jpg
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Textures/BoyFace_DF.jpg
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Textures/SculCap-UV-01.jpg
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/Textures/VictFem_Base Color-BlackRed.jpg
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/.hidden
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/.hidden/Glass
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/.hidden/white
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Materials
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Materials/Glass
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Materials/Interior
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Materials/Shopfront
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Materials/WallFloorOP
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Meshes
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Meshes/Glass
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Meshes/Interior
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Meshes/Opacity
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Meshes/Shopfront
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Meshes/Sign
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Textures
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Textures/May_Shopfront_03_Glass_AlbedoTransparency
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Textures/May_Shopfront_03_Interior_AlbedoTransparency
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Textures/May_Shopfront_03_WallFloorOP_AlbedoTransparency
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/Textures/Shopfront_AlbedoTransparency
+      - MontoStop03_FifthPass_NoTextures_v02_anim_060724_FBX/shopredux1.fbx/shopredux1
+      - MyTimer.ts
+      - PXL_20250603_093929972 2.jpg
+      - PXL_20250603_093929972 3.jpg
+      - PXL_20250603_093929972 4.jpg
+      - PXL_20250603_093929972.jpg
+      - Render Target.renderTarget
+      - Rua_low_suit_clothing_AlbedoTransparency 2.png
+      - Rua_low_suit_clothing_AlbedoTransparency 3.png
+      - Rua_low_suit_clothing_AlbedoTransparency 4.png
+      - Rua_low_suit_clothing_AlbedoTransparency.png
+      - Rua_low_suit_eyes_AlbedoTransparency.png
+      - Rua_low_suit_face_AlbedoTransparency.png
+      - STOP 3 _MIX_RETIMED_VO.wav
+      - Scene.scene
+      - Simple PBR.mat
+      - Surface Detection.lspkg/Audio
+      - Surface Detection.lspkg/Audio/CalibrationComplete.mp3
+      - "Surface Detection.lspkg/Example [DELETE ME]"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Example Script [EDIT].ts"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Materials"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Materials/Uber PBR.mat"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Meshes"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Meshes/Box.mesh"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Shaders"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Shaders/uber_pbr.ss_graph"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Textures"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Textures/Base.png"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Textures/Normal.png"
+      - Surface Detection.lspkg/Materials
+      - Surface Detection.lspkg/Materials/CalibrationMat.mat
+      - Surface Detection.lspkg/Meshes
+      - Surface Detection.lspkg/Meshes/Unit Plane.mesh
+      - Surface Detection.lspkg/Scripts/CircleAnimation.ts
+      - Surface Detection.lspkg/Scripts/SurfaceDetection.ts
+      - Surface Detection.lspkg/Shaders
+      - Surface Detection.lspkg/Shaders/CalibrationShader.ss_graph
+      - Surface Detection.lspkg/SurfaceDetection__ADD_TO_SCENE.prefab
+      - Surface Detection.lspkg/Textures
+      - Surface Detection.lspkg/Textures/groundIcon.png
+      - Surface Detection.lspkg/package.native
+      - Timer Two.js
+      - Timer.js
+      - Unlit.mat
+      - cat_pbr 2.mat
+      - cat_pbr.mat
+      - image_unlit.ss_graph
+      - ladies.fbx
+      - ladies.fbx/.hidden
+      - ladies.fbx/.hidden/Lilly_Face
+      - ladies.fbx/.hidden/white
+      - ladies.fbx/Animations
+      - ladies.fbx/Animations/BaseLayer
+      - ladies.fbx/Materials
+      - ladies.fbx/Materials/Lilly_Face
+      - ladies.fbx/Materials/Lilly_clothes
+      - ladies.fbx/Materials/eyes
+      - ladies.fbx/Materials/teeth
+      - ladies.fbx/Meshes
+      - ladies.fbx/Meshes/Cylinder001
+      - ladies.fbx/Meshes/Dress
+      - ladies.fbx/Meshes/Eye_L
+      - ladies.fbx/Meshes/Eye_R
+      - ladies.fbx/Meshes/Face
+      - ladies.fbx/Meshes/Glove_L
+      - ladies.fbx/Meshes/Glove_R
+      - ladies.fbx/Meshes/Hair
+      - ladies.fbx/Meshes/Heel_L
+      - ladies.fbx/Meshes/Heel_R
+      - ladies.fbx/Meshes/Leg_L
+      - ladies.fbx/Meshes/Leg_R
+      - ladies.fbx/Meshes/Plane001
+      - ladies.fbx/Meshes/Plane002
+      - ladies.fbx/Meshes/Plane003
+      - ladies.fbx/Meshes/Plane004
+      - ladies.fbx/Meshes/Plane005
+      - ladies.fbx/Meshes/Plane006
+      - ladies.fbx/Meshes/Plane007
+      - ladies.fbx/Meshes/Plane008
+      - ladies.fbx/Meshes/Plane009
+      - ladies.fbx/Meshes/hat_low
+      - ladies.fbx/Meshes/rose
+      - ladies.fbx/Meshes/teeth
+      - ladies.fbx/ladies
+      - location_material.ss_graph
+      - shop.prefab
+      - shopredux
+      - shopredux/.hidden
+      - shopredux/.hidden/Glass.ss_graph
+      - shopredux/.hidden/white.jpg
+      - shopredux/Materials/Empty.ss_graph
+      - shopredux/Materials/Glass.mat
+      - shopredux/Materials/Interior.mat
+      - shopredux/Materials/Shopfront.mat
+      - shopredux/Materials/WallFloorOP.mat
+      - shopredux/Meshes
+      - shopredux/Meshes/Glass.mesh
+      - shopredux/Meshes/Interior.mesh
+      - shopredux/Meshes/Opacity.mesh
+      - shopredux/Meshes/Shopfront.mesh
+      - shopredux/Meshes/Sign.mesh
+      - shopredux/Textures
+      - shopredux/Textures/May_Shopfront_03_Glass_AlbedoTransparency.png
+      - shopredux/Textures/May_Shopfront_03_Interior_AlbedoTransparency.png
+      - shopredux/Textures/May_Shopfront_03_WallFloorOP_AlbedoTransparency.png
+      - shopredux/Textures/Shopfront_AlbedoTransparency.png
+      - shopredux/shopredux.prefab
+      - simple_pbr.ss_graph
+      - stop3 2.mp3
+      - stop3.mp3
+      - uber_pbr 2.ss_graph
+      - uber_pbr.ss_graph
+      - unlit.ss_graph
+  options: 4

@@ -1,0 +1,17 @@
+- !<AnimationMixerLayer/d808d5a9-ba23-408b-9aaf-c0f21d5128a0>
+  PackagePath: ""
+  Layer: Scene
+  Name: Scene
+  Weight: 1.000000
+  SpeedRatio: 0.800000
+  From: 0.000000
+  To: 312.500000
+  Offset: 12.000000
+  FPS: 30.000000
+  NumCycles: -1
+  Reversed: false
+  Disabled: false
+  PostInfinity: Cycle
+  BlendMode: Additive
+  ScaleMode: Multiply
+  RangeType: FrameIndex

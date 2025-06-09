@@ -1,0 +1,1580 @@
+- !<ObjectPrefab/80f2b8c5-7724-465a-bf2e-b76579b07555>
+  PackagePath: ""
+  objects:
+    - !<own> c87ac523-0fa7-4c73-82e3-fb96bfb4e4ce
+  LazyLoading: false
+  RetainAssets: false
+- !<RenderMeshVisual/0340c48a-481c-498c-a2fa-3af269353674>
+  PrefabRemaps:
+    []
+  Name: component_6
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> 83ca150e-ca0f-43d7-83ca-655429fd0cf3
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/049e8496-a82a-438d-9aab-482e72a988db>
+  PrefabRemaps:
+    []
+  Name: component_5
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> 3c1ec057-3526-4d4e-b185-c85a2b9c7ffc
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/04c3074c-881f-427f-b797-e78c08ba1221>
+  PrefabRemaps:
+    []
+  Name: Glass
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 2079.307129, y: 2.478082, z: 210.144714}
+    rotation: {x: 269.999969, y: 90.000000, z: 0.000000}
+    scale: {x: 26.680561, y: 29.327431, z: 26.394459}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4df24b1f-1a89-483a-8d4a-ec7405388e39
+- !<AnimationPlayer/118b9e31-3c21-473a-a2ad-95d3cc665e46>
+  PrefabRemaps:
+    []
+  Name: component_20
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    - !<AnimationClip>
+      AnimationAsset: !<reference> c27bac8e-d833-49d5-93b8-2e779ed5b459
+      Name: Curtain 001|bottle|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> a414f712-dc9a-4280-9f56-dfa5819ef7af
+      Name: Curtain 001|cork|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> e20c6357-01d9-426a-b75c-89aaa4e9b9f3
+      Name: Curtain 001|Curtain 001|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> fdc72b92-4331-49b0-be25-40d50ec98545
+      Name: Curtain 001|Curtain 002|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 998ccd3e-de6b-48dc-9ebb-9549bd2b17c0
+      Name: Curtain 001|Curtain 003|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 25e551c0-e16c-41ff-ba7f-59747e592649
+      Name: Curtain 001|Curtain 004|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 43487e3f-35d9-437c-b995-6381d72ceb3b
+      Name: Curtain 001|CurtainBacking001|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 82ff44f3-770b-47c1-bcd3-68959c8633ed
+      Name: Curtain 001|CurtainBacking|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 96e8507a-6941-4150-b8b6-8689e0200d1c
+      Name: Curtain 001|CurtainRail|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 3c6c8671-3e7f-4937-81ff-5e67b1df8567
+      Name: Curtain 001|DisplayBox|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> b4b3cc46-2d2f-4ed3-8f74-a093f52beb1d
+      Name: Curtain 001|DisplayCase02|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 9e2daea1-1aff-499f-9b73-c10129e25730
+      Name: Curtain 001|DisplayCase|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 8440e20b-891c-42c4-873e-f8719dc91674
+      Name: "Curtain 001|Fancyman_Animated_Mixamo_01:Fancyman_CTRL|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> e812bc98-6b0a-487c-83d0-ca79ab24fcdb
+      Name: "Curtain 001|FBX:Victorian_Woman_CTRL|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 37251cf1-63dd-49db-a1fd-ed8fe4e4f4c9
+      Name: Curtain 001|Glass|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 82580998-4e30-4e1b-82a4-6e18c626a284
+      Name: "Curtain 001|Horse_and_Carriage___Rigged:Carriage_Body_CTRL|Take 001|BaseLay"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> a274d30a-6b23-42bd-8daf-41d8393f22c1
+      Name: "Curtain 001|Horse_and_Carriage___Rigged:Carriage_Front_Axle_CTRL|Take 001|B"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> cc556138-6c6a-4bd5-a14f-8c1fe707afae
+      Name: "Curtain 001|Horse_and_Carriage___Rigged:Carriage_Rotate_CTRL|Take 001|BaseL"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> e45089fc-b3df-4775-9000-d5f7055979d0
+      Name: "Curtain 001|Horse_and_Carriage___Rigged:Carriage|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> f69f3629-4746-4850-b3e4-c17211a285c3
+      Name: "Curtain 001|Horse_and_Carriage___Rigged:FrontAxle|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> bc91ea4e-e19e-4b26-ae10-ef4fc1c9d22e
+      Name: "Curtain 001|Horse_and_Carriage___Rigged:FrontWheels|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 0b60e5d3-4565-4c99-9cc2-8c19e13202ed
+      Name: "Curtain 001|Horse_and_Carriage___Rigged:Horse_and_Carriage_CTRL|Take 001|Ba"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 519f1360-6f54-47e9-bd20-332b446bed0e
+      Name: "Curtain 001|Horse_and_Carriage___Rigged:Horse_CTRL|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 54c9f8f0-ea3d-4af0-80ec-2ce9e1e238b0
+      Name: "Curtain 001|Horse_and_Carriage___Rigged:RearWheels|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> d1691e3c-b003-47ad-9f00-fe3ac7fface7
+      Name: Curtain 001|Interior|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 75a27e8e-da53-4297-b492-3cbbcd99e2bd
+      Name: Curtain 001|Opacity|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> bfa38fc9-3787-4e96-ac29-03baf5c88220
+      Name: Curtain 001|Shelf01|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 7e1cbce0-3342-470c-8bb8-4b85fca50b2d
+      Name: Curtain 001|Shelf02|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 57730373-3fd4-4912-b535-902571a69aa3
+      Name: Curtain 001|Shelf03|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 8cda2e6d-7c13-491c-945f-2043c635439e
+      Name: Curtain 001|Shopfront|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> c25ccf33-772a-452f-a201-24aa7ecf9ade
+      Name: Curtain 001|Table|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 32fd9fd7-c774-4fb3-bf2f-f07d20bd4f76
+      Name: Curtain 001|Tin|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> a61bbcfb-0113-4dde-9734-df71516fa721
+      Name: Curtain 001|tuna|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> e154ae4f-a70a-49ba-bc1e-29c7b1e273f7
+      Name: Curtain 002|bottle|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 0a9aab30-30ad-4c43-8b7a-6907a44124c8
+      Name: Curtain 002|cork|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 15cf6950-4429-4259-b1e4-61051134486b
+      Name: Curtain 002|Curtain 001|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 472975aa-0a50-44be-824e-cd9f0c54ed35
+      Name: Curtain 002|Curtain 002|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 6986ae1d-556a-4580-b301-1f73bd0a279a
+      Name: Curtain 002|Curtain 003|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> d55ecb54-15ac-450a-bed9-815ad0b2aace
+      Name: Curtain 002|Curtain 004|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 2faa14ac-3816-4d66-9117-476e3fe2a29b
+      Name: Curtain 002|CurtainBacking001|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 8e748f77-1c26-48af-83d4-a98c51e7aab3
+      Name: Curtain 002|CurtainBacking|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 2cfb9423-518b-4d24-8077-356546d735ba
+      Name: Curtain 002|CurtainRail|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 36bd4546-45c5-43fd-a445-c9b9482a9a6f
+      Name: Curtain 002|DisplayBox|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> a74678bd-4f2a-4530-a821-446ac4e65fa9
+      Name: Curtain 002|DisplayCase02|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 5a5f34d0-7a13-4282-89dc-e9f6d7addfef
+      Name: Curtain 002|DisplayCase|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> bb5b9abc-034d-4fa7-aa90-36b03fe5f389
+      Name: "Curtain 002|Fancyman_Animated_Mixamo_01:Fancyman_CTRL|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> ab6d8fa0-89cf-4adb-ae6f-f25ecf568164
+      Name: "Curtain 002|FBX:Victorian_Woman_CTRL|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 88169232-4202-41b7-8ef9-ac867e282b7b
+      Name: Curtain 002|Glass|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 7680e607-b3fd-47d8-8b0d-385830b8f634
+      Name: "Curtain 002|Horse_and_Carriage___Rigged:Carriage_Body_CTRL|Take 001|BaseLay"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> ca1d74bc-a1b5-4ada-9dbc-fcbc14080db8
+      Name: "Curtain 002|Horse_and_Carriage___Rigged:Carriage_Front_Axle_CTRL|Take 001|B"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> f0502bce-8adc-4785-86f3-ea6e6b87f274
+      Name: "Curtain 002|Horse_and_Carriage___Rigged:Carriage_Rotate_CTRL|Take 001|BaseL"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> cd192183-cb80-4a6b-b1ac-314bdb1a2405
+      Name: "Curtain 002|Horse_and_Carriage___Rigged:Carriage|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 6264e0f9-7ebb-4aa5-b5f8-6e1ad2261d7d
+      Name: "Curtain 002|Horse_and_Carriage___Rigged:FrontAxle|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 49bbf2c4-658b-4f4d-aecf-586f788b2c2a
+      Name: "Curtain 002|Horse_and_Carriage___Rigged:FrontWheels|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> e7b30b35-0f16-489a-8d4e-5695d5c3078d
+      Name: "Curtain 002|Horse_and_Carriage___Rigged:Horse_and_Carriage_CTRL|Take 001|Ba"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> b2365c80-0a9b-46de-8e15-6c8f6b9f3ce9
+      Name: "Curtain 002|Horse_and_Carriage___Rigged:Horse_CTRL|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> d6369c86-6e50-4983-b166-8bfb3bdf47b0
+      Name: "Curtain 002|Horse_and_Carriage___Rigged:RearWheels|Take 001|BaseLayer"
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 76e2ccfa-b5b6-417a-af8c-879e8f43c1f8
+      Name: Curtain 002|Interior|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 6ab9c340-3669-4c8d-80fb-8e071cce8927
+      Name: Curtain 002|Opacity|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 90dea761-cc14-4d2d-9645-d9cdef85b998
+      Name: Curtain 002|Shelf01|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> d202d246-57fa-49f9-a49b-18085645861e
+      Name: Curtain 002|Shelf02|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> de34194b-0f19-4aa3-848a-e4f314cf71c0
+      Name: Curtain 002|Shelf03|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 8287993c-24cd-44bf-97dc-29b4ca4b9548
+      Name: Curtain 002|Shopfront|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip>
+      AnimationAsset: !<reference> e5f46a4f-9b7a-48f6-b2c2-d175c32753b4
+      Name: Curtain 002|Table|Take 001|BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+- !<SceneObject/24ba69c5-46ee-48e8-93bf-6377c66a276f>
+  PrefabRemaps:
+    []
+  Name: Opacity
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 12.175202, y: 205.452850, z: 57.346470}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 77d371fa-e5ee-4718-96ee-27532a45033d
+- !<SceneObject/2b52b70c-f62f-44e1-b953-dc8e631a8b4b>
+  PrefabRemaps:
+    []
+  Name: bottle
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 89.603973, y: 177.763992, z: 52.763878}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.215105, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 66f1e5f1-9403-4c84-9d67-4fd36e4f8fa8
+- !<RenderMeshVisual/2b7ed078-9a15-4f42-8fdd-1aa5644ad92e>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> 31be92c4-7eb0-465c-842b-92ca2019017e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/2f853c49-a786-4574-aa18-38b8975aa693>
+  PrefabRemaps:
+    []
+  Name: Curtain 001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 19.409174, y: 186.868423, z: 26.836746}
+    rotation: {x: -90.000000, y: 20.000013, z: -0.000000}
+    scale: {x: 0.672533, y: 1.000000, z: 0.643916}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3e70188c-fc80-4ece-b500-34759ba8f184
+- !<RenderMeshVisual/314c055e-3115-4d83-8bc2-b99fd2372ca6>
+  PrefabRemaps:
+    []
+  Name: component_16
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> d3f2cc6e-a571-4c2a-957a-c19368aa4b10
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/34df460b-b2f1-438f-8a5f-ba13709d3289>
+  PrefabRemaps:
+    []
+  Name: component_18
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> b691de0b-b045-476a-8b67-6012e04e1749
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/3b1d32cb-d162-4174-8558-61ae4831ca34>
+  PrefabRemaps:
+    []
+  Name: component_19
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> 2a329784-6e75-4bdc-80ef-0e167c62e9d5
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/3e70188c-fc80-4ece-b500-34759ba8f184>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> 121ffa40-b3a0-456a-9e80-586cd4329b7f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/3f97d5ec-2591-488e-a715-05f2ba489c47>
+  PrefabRemaps:
+    []
+  Name: component_13
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 71456f12-0631-4752-849d-1c3df43c330b
+  Mesh: !<reference> d371fa55-d7c0-40b9-8871-5566fdc60b2d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/3ff5bd32-8385-498a-acea-04b960e8c3bc>
+  PrefabRemaps:
+    []
+  Name: Curtain 002
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 292.560181, y: 186.880157, z: 22.264175}
+    rotation: {x: -90.000000, y: -13.145684, z: -0.000000}
+    scale: {x: 0.435577, y: 1.136813, z: 0.661037}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a9c5b19f-79ee-41df-86bb-1ddaa2f3d182
+- !<RenderMeshVisual/3ff6e4ee-bf5b-4ac6-b8e1-d3409ee34d5e>
+  PrefabRemaps:
+    []
+  Name: component_11
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> 85395edc-1e16-4697-8c15-aa27335d364d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/403a6ab9-84a1-4b9f-88a8-64b71fd2948b>
+  PrefabRemaps:
+    []
+  Name: Interior
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 89.603973, y: 177.763992, z: 52.763878}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.215105, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3ff6e4ee-bf5b-4ac6-b8e1-d3409ee34d5e
+- !<RenderMeshVisual/4df24b1f-1a89-483a-8d4a-ec7405388e39>
+  PrefabRemaps:
+    []
+  Name: component_10
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c74c073e-ec97-4841-b4fe-2b13d9e1937d
+  Mesh: !<reference> da2eadf2-ff31-4bdd-a4ab-ead278ca3849
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/53b736ff-a61d-45db-9c8c-b9623e3f3cf1>
+  PrefabRemaps:
+    []
+  Name: DisplayCase02
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 89.603973, y: 177.763992, z: 52.763878}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.215105, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a33e533f-11c3-4877-8038-91587d3e34ba
+- !<RenderMeshVisual/5a5a0327-a513-4e56-8b1b-e32f03276f5d>
+  PrefabRemaps:
+    []
+  Name: component_3
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> 05630967-deb3-450c-acdc-ea73b074ed0b
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/5ef1b0d6-f04d-4fd8-a6f5-149d9c9009b0>
+  PrefabRemaps:
+    []
+  Name: component_7
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> b09056c3-940d-4edd-850d-be0e73dc0b83
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/5f2fb75a-58c5-4637-85f0-f77aad572121>
+  PrefabRemaps:
+    []
+  Name: component_4
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> 59ba13db-9e49-4c1b-99e8-8553f54b7291
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/66f1e5f1-9403-4c84-9d67-4fd36e4f8fa8>
+  PrefabRemaps:
+    []
+  Name: component_17
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> b41ccc0c-afd8-4083-a8ce-d0f3fcdc0326
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/67084903-54d2-4306-a430-f51c72971e9c>
+  PrefabRemaps:
+    []
+  Name: Shopfront
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 12.175202, y: 205.452850, z: 57.346470}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3f97d5ec-2591-488e-a715-05f2ba489c47
+- !<SceneObject/685a733f-375a-4c64-84a2-adc85ce62968>
+  PrefabRemaps:
+    []
+  Name: DisplayCase
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 89.603973, y: 177.763992, z: 52.763878}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.215105, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f9a104ca-300d-4a3e-b077-e8d5f38c3da4
+- !<RenderMeshVisual/77d371fa-e5ee-4718-96ee-27532a45033d>
+  PrefabRemaps:
+    []
+  Name: component_12
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e332ff47-274c-4bea-b150-3ec79dc6a5b0
+  Mesh: !<reference> 69547417-3c0b-4c9b-82f9-5fd1d1a70a16
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/8f47b8e5-afc8-4233-96b5-c1794d720e1b>
+  PrefabRemaps:
+    []
+  Name: DisplayBox
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 89.603973, y: 177.763992, z: 52.763878}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.215105, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5ef1b0d6-f04d-4fd8-a6f5-149d9c9009b0
+- !<SceneObject/987fb237-c806-4a70-a734-e1ee1f6b22d6>
+  PrefabRemaps:
+    []
+  Name: CurtainBacking001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -21.304108, y: 29.939629, z: -15.223321}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.136292, y: 0.712159, z: 0.985090}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 049e8496-a82a-438d-9aab-482e72a988db
+- !<RenderMeshVisual/a33e533f-11c3-4877-8038-91587d3e34ba>
+  PrefabRemaps:
+    []
+  Name: component_9
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> 2c9d61d3-b2e8-43d5-b003-9df272b66c4d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/a9c5b19f-79ee-41df-86bb-1ddaa2f3d182>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> 0b930361-b72f-4304-bbb9-b39d88d3c427
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/b5757736-3e85-4a1d-b1a2-0fcf8fd01369>
+  PrefabRemaps:
+    []
+  Name: Curtain 003
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -216.465591, y: 172.742126, z: 34.765827}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2b7ed078-9a15-4f42-8fdd-1aa5644ad92e
+- !<SceneObject/be4e7661-2295-4f9c-8364-d9bd0802490b>
+  PrefabRemaps:
+    []
+  Name: cork
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 89.603973, y: 177.763992, z: 52.763878}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.215105, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 34df460b-b2f1-438f-8a5f-ba13709d3289
+- !<SceneObject/c87ac523-0fa7-4c73-82e3-fb96bfb4e4ce>
+  PrefabRemaps:
+    []
+  Name: shop
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2f853c49-a786-4574-aa18-38b8975aa693
+    - !<own> 3ff5bd32-8385-498a-acea-04b960e8c3bc
+    - !<own> b5757736-3e85-4a1d-b1a2-0fcf8fd01369
+    - !<own> fb6b31ac-1461-4b66-b017-cdbe40f654a1
+    - !<own> cc129005-110b-44aa-9a84-a8202c222506
+    - !<own> 987fb237-c806-4a70-a734-e1ee1f6b22d6
+    - !<own> cdb034bc-533c-4a8f-a102-c04b16657204
+    - !<own> 8f47b8e5-afc8-4233-96b5-c1794d720e1b
+    - !<own> 685a733f-375a-4c64-84a2-adc85ce62968
+    - !<own> 53b736ff-a61d-45db-9c8c-b9623e3f3cf1
+    - !<own> 04c3074c-881f-427f-b797-e78c08ba1221
+    - !<own> 403a6ab9-84a1-4b9f-88a8-64b71fd2948b
+    - !<own> 24ba69c5-46ee-48e8-93bf-6377c66a276f
+    - !<own> 67084903-54d2-4306-a430-f51c72971e9c
+    - !<own> d7da71e7-9ca9-4100-a532-0b5c3f5227c7
+    - !<own> d11303af-a12b-45ca-8141-06cfbe4030ce
+    - !<own> e563fbb2-1d85-4119-ab34-f2e50b13dc96
+    - !<own> 2b52b70c-f62f-44e1-b953-dc8e631a8b4b
+    - !<own> be4e7661-2295-4f9c-8364-d9bd0802490b
+    - !<own> cc94b2ab-8194-4039-b91f-b13675166b33
+  Components:
+    - !<own> 118b9e31-3c21-473a-a2ad-95d3cc665e46
+- !<SceneObject/cc129005-110b-44aa-9a84-a8202c222506>
+  PrefabRemaps:
+    []
+  Name: CurtainBacking
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -21.304108, y: -229.502289, z: -15.223317}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.136292, y: 0.712159, z: 1.355161}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5f2fb75a-58c5-4637-85f0-f77aad572121
+- !<SceneObject/cc94b2ab-8194-4039-b91f-b13675166b33>
+  PrefabRemaps:
+    []
+  Name: tuna
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 89.603973, y: 177.763992, z: 52.763878}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.215105, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3b1d32cb-d162-4174-8558-61ae4831ca34
+- !<SceneObject/cdb034bc-533c-4a8f-a102-c04b16657204>
+  PrefabRemaps:
+    []
+  Name: CurtainRail
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 340.552704, y: 170.936829, z: 60.183132}
+    rotation: {x: -90.000000, y: -0.000000, z: 90.000000}
+    scale: {x: 0.369631, y: 0.369631, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 0340c48a-481c-498c-a2fa-3af269353674
+- !<SceneObject/d11303af-a12b-45ca-8141-06cfbe4030ce>
+  PrefabRemaps:
+    []
+  Name: Table
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 89.603981, y: 173.845154, z: -571.303772}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.215105, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> dd4f0ec7-5411-4202-a23b-2f43d0dfb32a
+- !<SceneObject/d7da71e7-9ca9-4100-a532-0b5c3f5227c7>
+  PrefabRemaps:
+    []
+  Name: Sign
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 12.175200, y: 205.452850, z: 57.346474}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e24cf980-acac-42a4-aba1-1f16b58c5e51
+- !<RenderMeshVisual/dd4f0ec7-5411-4202-a23b-2f43d0dfb32a>
+  PrefabRemaps:
+    []
+  Name: component_15
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> 9bbdea5d-5391-490c-a313-73f7a5b1670a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/e24cf980-acac-42a4-aba1-1f16b58c5e51>
+  PrefabRemaps:
+    []
+  Name: component_14
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 71456f12-0631-4752-849d-1c3df43c330b
+  Mesh: !<reference> 5b80f1e3-45f4-4dae-b306-b9f095cc34be
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e563fbb2-1d85-4119-ab34-f2e50b13dc96>
+  PrefabRemaps:
+    []
+  Name: Tin
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 89.603973, y: 177.763992, z: 52.763878}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.215105, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 314c055e-3115-4d83-8bc2-b99fd2372ca6
+- !<RenderMeshVisual/f9a104ca-300d-4a3e-b077-e8d5f38c3da4>
+  PrefabRemaps:
+    []
+  Name: component_8
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eaaf7466-e5a3-4b31-b510-f2fcb3352e07
+  Mesh: !<reference> 63b6b567-5d27-4849-a5ce-bc6aace45f4c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/fb6b31ac-1461-4b66-b017-cdbe40f654a1>
+  PrefabRemaps:
+    []
+  Name: Curtain 004
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -178.193253, y: 172.742126, z: 34.765827}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5a5a0327-a513-4e56-8b1b-e32f03276f5d

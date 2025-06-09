@@ -1,0 +1,225 @@
+- !<AssetImportMetadata/0b948a28-cf09-49a4-88d4-b9ab8abf9709>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 5af29e10-2f36-493c-9cb2-fd48abaa5026
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 5af29e10-2f36-493c-9cb2-fd48abaa5026
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> 809100e6-0c88-4157-9ef3-e7c138972eb7
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/229f27a0-fab5-49ac-a706-b4e21d5d9efe>
+  PrefabRemaps:
+    []
+  Name: stanchion_pole0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -135.381622, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 469bf732-fcea-42a1-9ad9-b2e9f4ff9410
+  Components:
+    []
+- !<SceneObject/469bf732-fcea-42a1-9ad9-b2e9f4ff9410>
+  PrefabRemaps:
+    []
+  Name: stanchion_pole0 | Geometric
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 129.018219, y: 0.000000, z: -1143.160156}
+    rotation: {x: -90.000000, y: 45.000000, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 67411e36-49e1-463b-bb6f-ab2310361200
+- !<SceneObject/61313c85-276e-49cc-aeba-8a4c58fdc742>
+  PrefabRemaps:
+    []
+  Name: stanchion_pole1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 135.381622, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e2f42c44-2f6f-4b41-ae68-216de7613609
+  Components:
+    []
+- !<RenderMeshVisual/67411e36-49e1-463b-bb6f-ab2310361200>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 2e8244b9-707b-4b33-ae13-20ff938d5612
+  Mesh: !<reference> e4e3b375-a3e3-453e-96d4-83d0b42fc69d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/72f62f8d-379a-4a99-9c8e-df4d17c123ba>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 3540f586-f7fb-4952-bfdd-7d65f642569b
+  Mesh: !<reference> 55470a8f-f8f0-4181-848f-213a1ef4cdca
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/7e1914d1-8cc8-44c4-ba4e-dae12c05a8d2>
+  PrefabRemaps:
+    []
+  Name: prop_stanchions
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 229f27a0-fab5-49ac-a706-b4e21d5d9efe
+    - !<own> ef38f042-03e9-4b7b-887c-1ac50e1b1e1e
+    - !<own> 61313c85-276e-49cc-aeba-8a4c58fdc742
+  Components:
+    []
+- !<ObjectPrefabAssetData/809100e6-0c88-4157-9ef3-e7c138972eb7>
+  SourceRemaps:
+    - 1c110f5d-080b-4999-958a-ff9ce89846e6: 8ddc7a09-5a8c-45cd-86fe-0ab795e56b8b
+    - 22f33170-4371-477b-a0a9-55d8e315ab82: ef38f042-03e9-4b7b-887c-1ac50e1b1e1e
+    - 27a2a6f1-448d-4120-b9a8-616aec8fe954: 72f62f8d-379a-4a99-9c8e-df4d17c123ba
+    - 5af29e10-2f36-493c-9cb2-fd48abaa5026: e45e11ed-138e-4c5e-8977-84ba9ad596cd
+    - 707cbc30-5778-4f36-b842-22cce0a6a2b3: 469bf732-fcea-42a1-9ad9-b2e9f4ff9410
+    - 82392177-1f26-489e-9ecd-55faba06272e: 61313c85-276e-49cc-aeba-8a4c58fdc742
+    - 83575f78-7762-4825-8603-d6eddb1c1e91: 229f27a0-fab5-49ac-a706-b4e21d5d9efe
+    - 8491cc01-59cd-4b00-b608-dbb44ae078e4: e2f42c44-2f6f-4b41-ae68-216de7613609
+    - b226a0b2-3523-4571-b98a-17cad029e89c: 89266a6f-da59-4db0-8801-a90157daa296
+    - c5c6354b-7ae5-4c7d-9849-d9ba8302e96d: dab127e7-39f3-4e6b-ae57-daa1ebb11a2a
+    - f63fdb92-0fdb-4447-8656-b201c3f7d9ed: 67411e36-49e1-463b-bb6f-ab2310361200
+    - fc651614-d060-4176-abd8-be6de8f56c3a: 7e1914d1-8cc8-44c4-ba4e-dae12c05a8d2
+  SourceState: !<own> e45e11ed-138e-4c5e-8977-84ba9ad596cd
+- !<RenderMeshVisual/89266a6f-da59-4db0-8801-a90157daa296>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 5516484e-6d96-43e2-a604-706b171d7cfa
+  Mesh: !<reference> f39cbe4d-6eed-4408-8ad9-eeb810869d25
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/8ddc7a09-5a8c-45cd-86fe-0ab795e56b8b>
+  PrefabRemaps:
+    []
+  Name: stanchion_rope | Geometric
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -6.363403, y: 0.000000, z: -1143.160156}
+    rotation: {x: -90.000000, y: 45.000000, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 72f62f8d-379a-4a99-9c8e-df4d17c123ba
+    - !<own> 89266a6f-da59-4db0-8801-a90157daa296
+- !<RenderMeshVisual/dab127e7-39f3-4e6b-ae57-daa1ebb11a2a>
+  PrefabRemaps:
+    []
+  Name: component_3
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 2e8244b9-707b-4b33-ae13-20ff938d5612
+  Mesh: !<reference> 0cd4568a-cdc8-4fd1-be25-2ee0266aa8c7
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e2f42c44-2f6f-4b41-ae68-216de7613609>
+  PrefabRemaps:
+    []
+  Name: stanchion_pole1 | Geometric
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -141.745026, y: 0.000000, z: -1143.160156}
+    rotation: {x: -90.000000, y: 45.000000, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> dab127e7-39f3-4e6b-ae57-daa1ebb11a2a
+- !<ObjectPrefab/e45e11ed-138e-4c5e-8977-84ba9ad596cd>
+  PackagePath: ""
+  objects:
+    - !<own> 7e1914d1-8cc8-44c4-ba4e-dae12c05a8d2
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/ef38f042-03e9-4b7b-887c-1ac50e1b1e1e>
+  PrefabRemaps:
+    []
+  Name: stanchion_rope
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8ddc7a09-5a8c-45cd-86fe-0ab795e56b8b
+  Components:
+    []

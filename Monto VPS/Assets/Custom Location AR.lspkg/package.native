@@ -1,0 +1,36 @@
+- !<NativePackageDescriptor/12d39f88-bb4d-4a09-8268-3c197d2b5920>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 9
+    patch: 1
+    build: 25051422
+    type: Unset
+  Description: |-
+    With Custom Location AR, you can map any location of your choosing, upload it to Lens Studio, and author AR content at that specific location.
+    https://docs.snap.com/lens-studio/platform-solutions/location-ar/custom-landmarker
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  InternalVersion: 1
+  VersionMajor: 1
+  VersionMinor: 1
+  VersionPatch: 0
+  UpdateCheckpoint: 57
+  ExportUid: 090b939f-f0af-4b91-be72-8134a6650c1c
+  ComponentUid: f53b2de8-4413-4ba5-97e7-31e14495c907
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0
+  coreVersion: 309
+  clientVersion: 13.380000

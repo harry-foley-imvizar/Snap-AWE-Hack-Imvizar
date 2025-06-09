@@ -1,0 +1,109 @@
+- !<ObjectPrefab/c0ebb8d6-e835-4c67-a5c0-445e353549ba>
+  PackagePath: ""
+  objects:
+    - !<own> b45f02b3-41de-4c55-891a-1c28c39bdb60
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/0d52f15c-22c3-4362-983f-f8b5ace2c91d>
+  PrefabRemaps:
+    []
+  Name: Rose
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> ea7f852b-d3d9-4824-9f53-245c3622c9f3
+  Components:
+    []
+- !<RenderMeshVisual/853f69b6-ccff-4ac4-acb7-500acb0baca9>
+  PrefabRemaps:
+    []
+  Name: 0020_01
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a63b6bab-f495-4377-8749-048481160fc6
+  Mesh: !<reference> ae4f5f8d-1f83-4887-9743-5e3da5859de8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+  RayTracing: !<RayTracingVisualSettings>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: false
+        roughHarden: -1.000000
+        roughCurve: -1.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<SceneObject/a1d97095-a62b-4566-992a-d759a034fa94>
+  PrefabRemaps:
+    []
+  Name: Rose
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 853f69b6-ccff-4ac4-acb7-500acb0baca9
+- !<SceneObject/b45f02b3-41de-4c55-891a-1c28c39bdb60>
+  PrefabRemaps:
+    []
+  Name: Rose__PUT_UNDER_MAIN_CAM
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: -8.754662, z: 5.464844}
+    rotation: {x: 136.732849, y: -54.142113, z: -154.693375}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0d52f15c-22c3-4362-983f-f8b5ace2c91d
+  Components:
+    []
+- !<SceneObject/ea7f852b-d3d9-4824-9f53-245c3622c9f3>
+  PrefabRemaps:
+    []
+  Name: Rose
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> a1d97095-a62b-4566-992a-d759a034fa94
+  Components:
+    []

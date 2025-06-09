@@ -1,0 +1,77 @@
+- !<ObjectPrefab/99d53d86-0b6f-4a9d-ab30-e33e8dd8ad56>
+  PackagePath: ""
+  objects:
+    - !<own> 3d378cb0-0d5a-476b-a813-549de34cb638
+  LazyLoading: false
+  RetainAssets: true
+- !<RenderMeshVisual/399c49e4-3c8d-42af-a722-5377162aa9c9>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 84fda98f-6494-4e81-a4ec-776e5ee723cc
+  Mesh: !<reference> 963aa7a6-1495-4da4-93d2-140835dc2049
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/3d378cb0-0d5a-476b-a813-549de34cb638>
+  PrefabRemaps:
+    []
+  Name: TCL Chinese Theater
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f1f04ea7-e25d-4696-b622-547f4a0b5e14
+  Components:
+    - !<own> 725387e8-8935-49e5-a2ab-9e500dfb5b05
+- !<AnimationPlayer/725387e8-8935-49e5-a2ab-9e500dfb5b05>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 49b63e3b-8760-4575-a833-53646e820a6f
+      Name: BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+- !<SceneObject/f1f04ea7-e25d-4696-b622-547f4a0b5e14>
+  PrefabRemaps:
+    []
+  Name: TCL_Chinese_Theater
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 399c49e4-3c8d-42af-a722-5377162aa9c9

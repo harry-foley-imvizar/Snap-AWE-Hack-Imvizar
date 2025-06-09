@@ -1,0 +1,48 @@
+- !<AssetImportMetadata/b0f47b33-de55-4f94-b336-1b9edc2b2478>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 3c907f07-b97f-48f6-8c16-994ba9a167d0
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 3c907f07-b97f-48f6-8c16-994ba9a167d0
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 0b96171d-3586-4043-93b7-8098b3c32014
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/0b96171d-3586-4043-93b7-8098b3c32014>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: d63f7d72-4707-4418-a6fc-b5839db0ab35
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    targetObject: false
+    targetScale: false
+    triggerTime: false
+    tweenDuration: false
+    tweenEasing: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - triggerTime: !<float> 5.000000
+      targetObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      targetScale: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+      tweenDuration: !<float> 1.000000
+      tweenEasing: easeOutCubic
+  ScriptTypes:
+    -
+      {}

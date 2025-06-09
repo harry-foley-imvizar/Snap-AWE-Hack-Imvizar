@@ -1,0 +1,290 @@
+- !<AssetImportMetadata/cb8c0ce6-300b-4516-97bd-52028ed004ed>
+  ImportedAssetIds:
+    .hidden/Glass: !<reference> 54da786e-7637-4eb4-a57d-57de7a58571f
+    .hidden/white: !<reference> 5a11a7cf-ee61-43b3-9a85-6c2843c06c5a
+    18046354947fa8d3: !<reference> b73ad363-9f67-46a0-be0f-c89e2846afaa
+    3411732135b15c61: !<reference> 68237079-85d4-46ec-b3d8-b89128d95f5f
+    52454711f81138de: !<reference> 18bd5da0-7c73-46d3-8f82-5db7c19f664e
+    5e42a08db85f3799: !<reference> 6af139b8-bf7a-4ab7-9f60-7420507b9af3
+    608357eb94dc4d26: !<reference> d34b38a8-6380-4504-bf5a-34f03b1f37e8
+    61ffd22aef09c551: !<reference> 528c3c5b-9972-48db-9b44-711a635874ce
+    661333f49227fe1b: !<reference> 0a963136-087d-483f-80e4-7879ecc37d1c
+    7697f8c51a260ac4: !<reference> 2ef52e31-bca9-4a86-ab92-c7575e1e3537
+    7a0dd5cd69df73fa: !<reference> 31dbbd2e-4013-468f-88da-650c6a038702
+    Materials/Glass: !<reference> 8b52f0c7-4cc3-49ca-9656-811ef30c9d86
+    Materials/Glass|Glass|GraphPassInfo: !<reference> 05beb7df-4a26-49c2-ad82-d60ac6e3e400
+    Materials/Interior: !<reference> caa759bd-dd70-45d5-8f14-0c9d8bf73148
+    Materials/Interior|Interior|GraphPassInfo: !<reference> 3a77c050-a733-4ee7-8422-cf053e83704f
+    Materials/Shopfront: !<reference> fbab2646-727a-4a03-af51-3ef6dfe9857e
+    Materials/Shopfront|Shopfront|GraphPassInfo: !<reference> 397132b0-af00-4f64-a984-833dd9c46a20
+    Materials/WallFloorOP: !<reference> 97383c14-5a8e-47ef-9230-60ad6e616cac
+    Materials/WallFloorOP|WallFloorOP|GraphPassInfo: !<reference> 5d8d6e18-6a1c-4ab7-83e3-77f63d433b5a
+    Meshes/Glass: !<reference> fd508da2-ce4d-49ac-8c22-cc595f63fb45
+    Meshes/Interior: !<reference> 9fc43aae-2093-4bd3-aa65-828ee0a8f61d
+    Meshes/Opacity: !<reference> a3e5855b-638b-4641-b549-10fae3716667
+    Meshes/Shopfront: !<reference> adbd28cf-d6f4-40eb-9efd-59236e96c3ae
+    Meshes/Sign: !<reference> dca51773-8829-420d-b27b-45b0b4ce54d6
+    Scene: !<reference> ca645a98-18e8-4017-b0f7-074cbaaccdc9
+    Textures/May_Shopfront_03_Glass_AlbedoTransparency: !<reference> ab1d3fcb-5c67-4f54-87af-a1b795a65c4b
+    Textures/May_Shopfront_03_Interior_AlbedoTransparency: !<reference> e836baf4-2800-4554-b885-acb1c2c7ef07
+    Textures/May_Shopfront_03_WallFloorOP_AlbedoTransparency: !<reference> 7b828502-d852-43f6-91e6-0265f34b43d6
+    Textures/Shopfront_AlbedoTransparency: !<reference> 2a31253e-31f8-4809-914d-c1bb6234a483
+    b7e51fcd07f630cf: !<reference> f3b2c923-b220-4c5a-846b-136d74e07499
+    ca89db06b1de70d5: !<reference> 9c6ecfae-c154-41e2-8187-afe64fd657ab
+  ImporterName: FbxImporter
+  PrimaryAsset: !<reference> ca645a98-18e8-4017-b0f7-074cbaaccdc9
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> 98aad6c2-3d93-4632-b2ba-106744a9e582
+  DependentFiles:
+    []
+  ImporterSettings: !<FbxImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangentsAndBinormals: true
+    RegenerateTangentsAndBinormals: false
+    RegenerateNormalsForSkinnedMeshes: true
+    ImportBlendShapeAnimation: true
+    ImportVertexAnimation: true
+    GeneratePivots: true
+    TriangulateNURBS: true
+    UseLegacyFbxLoader: false
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<SingleCompressionSettings>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionMipmapSettings>
+          Level: Medium
+          Mipmap: false
+    ExtensionMappings:
+      mesh: None Compression
+      png: Performance Compression
+      jpg: Performance Compression
+    Overrides:
+      {}
+- !<SceneObject/2efbf1fc-bcec-4440-9ee8-0520b4bfb927>
+  PrefabRemaps:
+    []
+  Name: Interior
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 89.603973, y: 177.763992, z: 52.763878}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.215105, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e1b84ef0-2c66-4166-b752-f2cf3b1a3933
+- !<ObjectPrefab/435cb172-ed0b-43d6-ad30-2018eff944f7>
+  PackagePath: ""
+  objects:
+    - !<own> 45f5d3d8-48bd-48ec-bdf1-2ac37da72643
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/45f5d3d8-48bd-48ec-bdf1-2ac37da72643>
+  PrefabRemaps:
+    []
+  Name: shopredux1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> c4e66108-c897-4531-95a1-aca671229b1a
+    - !<own> 2efbf1fc-bcec-4440-9ee8-0520b4bfb927
+    - !<own> c279fdd7-d536-4242-a850-1f1feebd14a3
+    - !<own> e11be212-ce8b-4dd3-b928-e0737ae77b5f
+    - !<own> bc1349c2-9f04-4fa0-be65-ed59099bd7a7
+  Components:
+    []
+- !<RenderMeshVisual/51c3d7b7-89d1-4863-b717-75bb785a11ba>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 97383c14-5a8e-47ef-9230-60ad6e616cac
+  Mesh: !<reference> a3e5855b-638b-4641-b549-10fae3716667
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/8d101265-b07e-4ad7-abf5-00ecbcc7b3bc>
+  PrefabRemaps:
+    []
+  Name: component_3
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> fbab2646-727a-4a03-af51-3ef6dfe9857e
+  Mesh: !<reference> adbd28cf-d6f4-40eb-9efd-59236e96c3ae
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefabAssetData/98aad6c2-3d93-4632-b2ba-106744a9e582>
+  SourceRemaps:
+    - 0a963136-087d-483f-80e4-7879ecc37d1c: e11be212-ce8b-4dd3-b928-e0737ae77b5f
+    - 18bd5da0-7c73-46d3-8f82-5db7c19f664e: c4e66108-c897-4531-95a1-aca671229b1a
+    - 2ef52e31-bca9-4a86-ab92-c7575e1e3537: 51c3d7b7-89d1-4863-b717-75bb785a11ba
+    - 31dbbd2e-4013-468f-88da-650c6a038702: 45f5d3d8-48bd-48ec-bdf1-2ac37da72643
+    - 528c3c5b-9972-48db-9b44-711a635874ce: a16d6b25-f4eb-4526-a072-e2a9d9e98673
+    - 68237079-85d4-46ec-b3d8-b89128d95f5f: c279fdd7-d536-4242-a850-1f1feebd14a3
+    - 6af139b8-bf7a-4ab7-9f60-7420507b9af3: e1b84ef0-2c66-4166-b752-f2cf3b1a3933
+    - 9c6ecfae-c154-41e2-8187-afe64fd657ab: 2efbf1fc-bcec-4440-9ee8-0520b4bfb927
+    - b73ad363-9f67-46a0-be0f-c89e2846afaa: 8d101265-b07e-4ad7-abf5-00ecbcc7b3bc
+    - ca645a98-18e8-4017-b0f7-074cbaaccdc9: 435cb172-ed0b-43d6-ad30-2018eff944f7
+    - d34b38a8-6380-4504-bf5a-34f03b1f37e8: bc1349c2-9f04-4fa0-be65-ed59099bd7a7
+    - f3b2c923-b220-4c5a-846b-136d74e07499: dad6e8b2-55df-4405-a226-86ff28df9abf
+  SourceState: !<own> 435cb172-ed0b-43d6-ad30-2018eff944f7
+- !<RenderMeshVisual/a16d6b25-f4eb-4526-a072-e2a9d9e98673>
+  PrefabRemaps:
+    []
+  Name: component_4
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> fbab2646-727a-4a03-af51-3ef6dfe9857e
+  Mesh: !<reference> dca51773-8829-420d-b27b-45b0b4ce54d6
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/bc1349c2-9f04-4fa0-be65-ed59099bd7a7>
+  PrefabRemaps:
+    []
+  Name: Sign
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 12.175200, y: 205.452850, z: 57.346474}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a16d6b25-f4eb-4526-a072-e2a9d9e98673
+- !<SceneObject/c279fdd7-d536-4242-a850-1f1feebd14a3>
+  PrefabRemaps:
+    []
+  Name: Opacity
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 12.175202, y: 205.452850, z: 57.346470}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 51c3d7b7-89d1-4863-b717-75bb785a11ba
+- !<SceneObject/c4e66108-c897-4531-95a1-aca671229b1a>
+  PrefabRemaps:
+    []
+  Name: Glass
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 2079.307129, y: 2.478082, z: 210.144714}
+    rotation: {x: 269.999969, y: 90.000000, z: 0.000000}
+    scale: {x: 26.680561, y: 29.327431, z: 26.394459}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> dad6e8b2-55df-4405-a226-86ff28df9abf
+- !<RenderMeshVisual/dad6e8b2-55df-4405-a226-86ff28df9abf>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8b52f0c7-4cc3-49ca-9656-811ef30c9d86
+  Mesh: !<reference> fd508da2-ce4d-49ac-8c22-cc595f63fb45
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e11be212-ce8b-4dd3-b928-e0737ae77b5f>
+  PrefabRemaps:
+    []
+  Name: Shopfront
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 12.175202, y: 205.452850, z: 57.346470}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 8d101265-b07e-4ad7-abf5-00ecbcc7b3bc
+- !<RenderMeshVisual/e1b84ef0-2c66-4166-b752-f2cf3b1a3933>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> caa759bd-dd70-45d5-8f14-0c9d8bf73148
+  Mesh: !<reference> 9fc43aae-2093-4bd3-aa65-828ee0a8f61d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}

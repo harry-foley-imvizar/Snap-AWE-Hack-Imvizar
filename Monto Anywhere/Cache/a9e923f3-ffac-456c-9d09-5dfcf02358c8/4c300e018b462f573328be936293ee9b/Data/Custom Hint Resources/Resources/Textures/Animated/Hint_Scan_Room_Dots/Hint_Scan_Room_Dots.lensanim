@@ -1,0 +1,988 @@
+{
+
+"images": [
+    "Hint_Look_For_Surface_3.png"
+],
+
+"frames": [
+{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_0.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 3,
+        "width": 196,
+        "height": 128
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 23,
+        "right": 204,
+        "bottom": 151
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_1.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 203,
+        "y": 3,
+        "width": 191,
+        "height": 128
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 20,
+        "right": 199,
+        "bottom": 148
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_2.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 398,
+        "y": 3,
+        "width": 187,
+        "height": 128
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 16,
+        "right": 195,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_3.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 589,
+        "y": 3,
+        "width": 182,
+        "height": 130
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 14,
+        "right": 190,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_4.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 775,
+        "y": 3,
+        "width": 177,
+        "height": 131
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 13,
+        "right": 185,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_5.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 138,
+        "width": 171,
+        "height": 132
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 12,
+        "right": 179,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_6.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 178,
+        "y": 138,
+        "width": 163,
+        "height": 134
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 10,
+        "right": 171,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_7.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 345,
+        "y": 138,
+        "width": 162,
+        "height": 135
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 9,
+        "right": 170,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_8.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 511,
+        "y": 138,
+        "width": 162,
+        "height": 135
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 9,
+        "right": 170,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_9.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 677,
+        "y": 138,
+        "width": 161,
+        "height": 136
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 8,
+        "right": 169,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_10.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 842,
+        "y": 138,
+        "width": 161,
+        "height": 135
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 9,
+        "right": 169,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_11.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 278,
+        "width": 161,
+        "height": 135
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 9,
+        "right": 169,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_12.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 168,
+        "y": 278,
+        "width": 161,
+        "height": 134
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 10,
+        "right": 169,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_13.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 333,
+        "y": 278,
+        "width": 161,
+        "height": 134
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 10,
+        "right": 169,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_14.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 498,
+        "y": 278,
+        "width": 161,
+        "height": 133
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 11,
+        "right": 169,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_15.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 663,
+        "y": 278,
+        "width": 161,
+        "height": 131
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 13,
+        "right": 169,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_16.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 828,
+        "y": 278,
+        "width": 161,
+        "height": 130
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 14,
+        "right": 169,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_17.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 417,
+        "width": 161,
+        "height": 128
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 16,
+        "right": 169,
+        "bottom": 144
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_18.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 168,
+        "y": 417,
+        "width": 161,
+        "height": 128
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 17,
+        "right": 169,
+        "bottom": 145
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_19.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 333,
+        "y": 417,
+        "width": 161,
+        "height": 127
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 20,
+        "right": 169,
+        "bottom": 147
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_20.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 498,
+        "y": 417,
+        "width": 161,
+        "height": 128
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 22,
+        "right": 169,
+        "bottom": 150
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_21.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 663,
+        "y": 417,
+        "width": 161,
+        "height": 128
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 25,
+        "right": 169,
+        "bottom": 153
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_22.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 828,
+        "y": 417,
+        "width": 161,
+        "height": 130
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 169,
+        "bottom": 156
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_23.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 551,
+        "width": 162,
+        "height": 134
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 7,
+        "top": 26,
+        "right": 169,
+        "bottom": 160
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_24.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 169,
+        "y": 551,
+        "width": 162,
+        "height": 137
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 7,
+        "top": 26,
+        "right": 169,
+        "bottom": 163
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_25.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 335,
+        "y": 551,
+        "width": 162,
+        "height": 141
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 7,
+        "top": 26,
+        "right": 169,
+        "bottom": 167
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_26.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 501,
+        "y": 551,
+        "width": 161,
+        "height": 146
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 169,
+        "bottom": 172
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_27.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 666,
+        "y": 551,
+        "width": 161,
+        "height": 149
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 169,
+        "bottom": 175
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_28.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 831,
+        "y": 551,
+        "width": 161,
+        "height": 150
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 169,
+        "bottom": 176
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_29.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 705,
+        "width": 161,
+        "height": 151
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 169,
+        "bottom": 177
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_30.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 168,
+        "y": 705,
+        "width": 161,
+        "height": 152
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 169,
+        "bottom": 178
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_31.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 333,
+        "y": 705,
+        "width": 161,
+        "height": 152
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 169,
+        "bottom": 178
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_32.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 498,
+        "y": 705,
+        "width": 161,
+        "height": 152
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 169,
+        "bottom": 178
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_33.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 663,
+        "y": 705,
+        "width": 162,
+        "height": 152
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 170,
+        "bottom": 178
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_34.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 829,
+        "y": 705,
+        "width": 162,
+        "height": 151
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 170,
+        "bottom": 177
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_35.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 861,
+        "width": 162,
+        "height": 150
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 170,
+        "bottom": 176
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_36.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 169,
+        "y": 861,
+        "width": 162,
+        "height": 149
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 170,
+        "bottom": 175
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_37.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 335,
+        "y": 861,
+        "width": 167,
+        "height": 147
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 175,
+        "bottom": 173
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_38.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 506,
+        "y": 861,
+        "width": 175,
+        "height": 145
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 183,
+        "bottom": 171
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_39.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 685,
+        "y": 861,
+        "width": 182,
+        "height": 142
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 190,
+        "bottom": 168
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_40.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 3,
+        "y": 1015,
+        "width": 189,
+        "height": 138
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 197,
+        "bottom": 164
+    }
+},{
+    "name": "SCAN_LPD-317_Surface_Detection_dots_41.png",
+    "texture": 0,
+    "samplingRect": {
+        "objectName": "",
+        "x": 196,
+        "y": 1015,
+        "width": 194,
+        "height": 132
+    },
+    "rotated": false,
+    "trimmed": true,
+    "sourceSize": {
+        "objectName": "",
+        "width": 206,
+        "height": 188
+    },
+    "clipping": {
+        "left": 8,
+        "top": 26,
+        "right": 202,
+        "bottom": 158
+    }
+}
+],
+
+"animations": {
+    "SCAN_LPD-317_Surface_Detection_dots": { "frames": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41] }
+},
+
+"meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "description": "Json file for Lens Studio Framework",
+        "version": "1.0",
+        "smartupdate": "$TexturePacker:SmartUpdate:34eb07e11a305d88fdc5094bda99a8b4:b9e1f3fb4e7a21297676654b8c632c81:db5563a58a486953e4f99bf8d6dec0a4$"
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for Lens Studio"
+    }
+}

@@ -1,0 +1,5 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 316f5766-4dbe-40b7-a598-030b3731674d: "C:/Users/shead/Downloads/ElevenLabs_2025-06-04T13_50_57_Grandpa Spuds Oxley_pvc_sp78_s50_sb23_se0_b_m2.mp3"
+  options: 4

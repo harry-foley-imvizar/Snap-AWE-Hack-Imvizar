@@ -1,0 +1,46 @@
+- !<AssetImportMetadata/a94d12b7-30f5-4dd1-b945-7d659c178253>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> a2c8a62e-de1f-478c-87e2-8ed64925e221
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> a2c8a62e-de1f-478c-87e2-8ed64925e221
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> bbff59c7-bec4-458d-a155-5d976ac9c91d
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/bbff59c7-bec4-458d-a155-5d976ac9c91d>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: cba374df-3700-4709-9249-d2d099c85f47
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    animationPlayer: false
+    clipName: false
+    playbackMode: false
+    triggerTime: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - triggerTime: !<float> 5.000000
+      animationPlayer: !<reference.AnimationPlayer> 00000000-0000-0000-0000-000000000000
+      clipName: Clip_01
+      playbackMode: 0
+  ScriptTypes:
+    -
+      {}

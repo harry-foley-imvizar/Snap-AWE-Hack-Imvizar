@@ -1,0 +1,284 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 278
+    values:
+      - 20th Century Fox Intro HD 4.mp3
+      - Base.png
+      - Custom Location AR.lspkg
+      - Custom Location AR.lspkg/Custom Locations__PLACE_IN_SCENE.prefab
+      - "Custom Location AR.lspkg/Location Asset [REPLACE_LOCATION_ID].location"
+      - Custom Location AR.lspkg/Materials
+      - Custom Location AR.lspkg/Materials/Hint Materials
+      - Custom Location AR.lspkg/Materials/Hint Materials/Go To Animation.mat
+      - Custom Location AR.lspkg/Materials/Hint Materials/Loading Ring.mat
+      - Custom Location AR.lspkg/Materials/Hint Materials/Location Icon 2.mat
+      - Custom Location AR.lspkg/Materials/Hint Materials/Location Icon.mat
+      - Custom Location AR.lspkg/Materials/LocationMesh.mat
+      - Custom Location AR.lspkg/Materials/PBR.mat
+      - Custom Location AR.lspkg/Materials/Segmentation.mat
+      - Custom Location AR.lspkg/Materials/Snapcode.mat
+      - Custom Location AR.lspkg/Meshes
+      - Custom Location AR.lspkg/Meshes/Box.mesh
+      - Custom Location AR.lspkg/Meshes/Location Mesh.location_mesh
+      - Custom Location AR.lspkg/Scripts
+      - Custom Location AR.lspkg/Scripts/CustomLocationController.js
+      - Custom Location AR.lspkg/Scripts/FrontCameraMirror.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Behavior.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/ParentToCamera.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/SetRenderOrder.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/SpectaclesDisable.ts
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/Tween.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenManager.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenAlpha.js
+      - Custom Location AR.lspkg/Scripts/HelperScripts/Tween/TweenTypes/TweenScreenTransform.js
+      - Custom Location AR.lspkg/Scripts/Information Scripts
+      - Custom Location AR.lspkg/Scripts/Information Scripts/CameraSetUp.js
+      - Custom Location AR.lspkg/Scripts/Information Scripts/LocationAssetInformation.js
+      - Custom Location AR.lspkg/Scripts/Information Scripts/MarkerGuide.js
+      - Custom Location AR.lspkg/Scripts/Status
+      - Custom Location AR.lspkg/Scripts/Status/StatusController.js
+      - Custom Location AR.lspkg/Shaders
+      - Custom Location AR.lspkg/Shaders/LocationMesh.ss_graph
+      - Custom Location AR.lspkg/Shaders/Segmentation.ss_graph
+      - Custom Location AR.lspkg/Shaders/UI.ss_graph
+      - Custom Location AR.lspkg/Shaders/flat.ss_graph
+      - Custom Location AR.lspkg/Shaders/pbr.ss_graph
+      - Custom Location AR.lspkg/Textures
+      - Custom Location AR.lspkg/Textures/Base.png
+      - Custom Location AR.lspkg/Textures/Device Camera Texture.deviceCameraTexture
+      - Custom Location AR.lspkg/Textures/Hint Textures
+      - Custom Location AR.lspkg/Textures/Hint Textures/failed_texture.png
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d/atlas_0.pvr
+      - Custom Location AR.lspkg/Textures/Hint Textures/go_to_anim/go_to_anim.t3d/go_to_anim
+      - "Custom Location AR.lspkg/Textures/Hint Textures/location_icon [REPLACE_ME].png"
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d/atlas_0.pvr
+      - Custom Location AR.lspkg/Textures/Hint Textures/point_at_anim/point_at_anim.t3d/point_at_anim
+      - Custom Location AR.lspkg/Textures/MaterialParams.png
+      - Custom Location AR.lspkg/Textures/Normal.png
+      - Custom Location AR.lspkg/Textures/Segmentation Textures
+      - Custom Location AR.lspkg/Textures/Segmentation Textures/Body Segmentation.segmentationTexture
+      - Custom Location AR.lspkg/Textures/Segmentation Textures/Portrait Background Segmentation.segmentationTexture
+      - Custom Location AR.lspkg/Textures/custom-landmarker-scan-1-a783491b4024b59080a5d840915eec86.png
+      - Custom Location AR.lspkg/Textures/loading_ring.png
+      - Custom Location AR.lspkg/package.native
+      - Echopark.hdr
+      - Empty Image Marker.imgmarker
+      - MaterialParams.png
+      - Normal.png
+      - PBR 2.mat
+      - PBR.mat
+      - Plane.mesh
+      - RotationPlayer.js
+      - Sequencer.js
+      - SequencerTapStart.js
+      - Simple PBR.mat
+      - Surface Detection.lspkg/Audio
+      - Surface Detection.lspkg/Audio/CalibrationComplete.mp3
+      - "Surface Detection.lspkg/Example [DELETE ME]"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Example Script [EDIT].ts"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Materials"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Materials/Uber PBR.mat"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Meshes"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Meshes/Box.mesh"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Shaders"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Shaders/uber_pbr.ss_graph"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Textures"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Textures/Base.png"
+      - "Surface Detection.lspkg/Example [DELETE ME]/Textures/Normal.png"
+      - Surface Detection.lspkg/Materials
+      - Surface Detection.lspkg/Materials/CalibrationMat.mat
+      - Surface Detection.lspkg/Meshes
+      - Surface Detection.lspkg/Meshes/Unit Plane.mesh
+      - Surface Detection.lspkg/Scripts
+      - Surface Detection.lspkg/Scripts/CircleAnimation.ts
+      - Surface Detection.lspkg/Scripts/SurfaceDetection.ts
+      - Surface Detection.lspkg/Shaders
+      - Surface Detection.lspkg/Shaders/CalibrationShader.ss_graph
+      - Surface Detection.lspkg/SurfaceDetection__ADD_TO_SCENE.prefab
+      - Surface Detection.lspkg/Textures
+      - Surface Detection.lspkg/Textures/groundIcon.png
+      - Surface Detection.lspkg/package.native
+      - TCL CT Carosuel 2.jpg
+      - TCL CT Carosuel 3.jpg
+      - TCL CT Carosuel.jpg
+      - TCL Chinese Theater
+      - TCL Chinese Theater/.hidden
+      - TCL Chinese Theater/.hidden/TCLChineseTheaterMTL.ss_graph
+      - TCL Chinese Theater/.hidden/white.jpg
+      - TCL Chinese Theater/Animations
+      - TCL Chinese Theater/Animations/BaseLayer.animationAsset
+      - TCL Chinese Theater/Materials/TCLChineseTheaterMTL.mat
+      - TCL Chinese Theater/Meshes
+      - TCL Chinese Theater/Meshes/TCL_Chinese_Theater.mesh
+      - TCL Chinese Theater/TCL Chinese Theater.prefab
+      - TCL Chinese Theater/Textures/TCL_Chinese_Theater_d.jpg
+      - Uber PBR.mat
+      - Untitled JavaScript 2.js
+      - Untitled JavaScript.js
+      - dragon
+      - dragon/.hidden
+      - dragon/.hidden/dragon.ss_graph
+      - dragon/.hidden/white.jpg
+      - dragon/Animations
+      - dragon/Animations/BaseLayer.animationAsset
+      - dragon/Materials
+      - dragon/Materials/carpet_albedo.png
+      - dragon/Materials/carpet_normal.png
+      - dragon/Materials/carpet_side_albedo.png
+      - dragon/Materials/carpet_side_normal.png
+      - dragon/Materials/dragon 2.mat
+      - dragon/Materials/dragon.mat
+      - dragon/Materials/dragon_albedo.png
+      - dragon/Materials/dragon_emission.png
+      - dragon/Materials/dragon_normal.png
+      - dragon/Meshes
+      - dragon/Meshes/Dragon.mesh
+      - dragon/dragon.prefab
+      - pbr.ss_graph
+      - prop_floodlight
+      - prop_floodlight/.hidden
+      - prop_floodlight/.hidden/BlackPaint.ss_graph
+      - prop_floodlight/.hidden/white.jpg
+      - prop_floodlight/Materials
+      - prop_floodlight/Materials/BlackPaint.mat
+      - prop_floodlight/Materials/BlackPlastic.mat
+      - prop_floodlight/Materials/Cable.mat
+      - prop_floodlight/Materials/Chrome.001.mat
+      - prop_floodlight/Materials/FloodLight.mat
+      - prop_floodlight/Materials/Frame.mat
+      - prop_floodlight/Materials/Glass.mat
+      - prop_floodlight/Meshes
+      - prop_floodlight/Meshes/prop_floodlight_base.mesh
+      - prop_floodlight/Meshes/prop_floodlight_base1.mesh
+      - prop_floodlight/Meshes/prop_floodlight_base2.mesh
+      - prop_floodlight/Meshes/prop_floodlight_base3.mesh
+      - prop_floodlight/Meshes/prop_floodlight_base4.mesh
+      - prop_floodlight/Meshes/prop_floodlight_base5.mesh
+      - prop_floodlight/Meshes/prop_floodlight_base6.mesh
+      - prop_floodlight/Meshes/prop_floodlight_base7.mesh
+      - prop_floodlight/Meshes/prop_floodlight_lens.mesh
+      - prop_floodlight/Meshes/prop_floodlight_lens1.mesh
+      - prop_floodlight/Meshes/prop_floodlight_lens2.mesh
+      - prop_floodlight/Meshes/prop_floodlight_lens3.mesh
+      - prop_floodlight/Meshes/prop_floodlight_lens4.mesh
+      - prop_floodlight/prop_floodlight.prefab
+      - prop_limo
+      - prop_limo/.hidden
+      - prop_limo/.hidden/Material12.ss_graph
+      - prop_limo/.hidden/white.jpg
+      - prop_limo/Materials
+      - prop_limo/Materials/Material12.mat
+      - prop_limo/Materials/Material14.mat
+      - prop_limo/Materials/Material19.mat
+      - prop_limo/Materials/Material24.mat
+      - prop_limo/Materials/Material26.mat
+      - prop_limo/Materials/Material27.mat
+      - prop_limo/Materials/Material28.mat
+      - prop_limo/Materials/Material29.mat
+      - prop_limo/Materials/_Burnt Umber_2.mat
+      - prop_limo/Materials/_Charcoal_.mat
+      - prop_limo/Materials/_LightGray_.mat
+      - prop_limo/Materials/body.mat
+      - prop_limo/Materials/cts-alu1.mat
+      - prop_limo/Materials/cts-logo1.mat
+      - prop_limo/Materials/cts-tire1.mat
+      - prop_limo/Materials/interior.mat
+      - prop_limo/Materials/skp_front_default.mat
+      - prop_limo/Meshes
+      - prop_limo/Meshes/prop_limo.mesh
+      - prop_limo/Meshes/prop_limo1.mesh
+      - prop_limo/Meshes/prop_limo10.mesh
+      - prop_limo/Meshes/prop_limo11.mesh
+      - prop_limo/Meshes/prop_limo12.mesh
+      - prop_limo/Meshes/prop_limo13.mesh
+      - prop_limo/Meshes/prop_limo14.mesh
+      - prop_limo/Meshes/prop_limo15.mesh
+      - prop_limo/Meshes/prop_limo16.mesh
+      - prop_limo/Meshes/prop_limo17.mesh
+      - prop_limo/Meshes/prop_limo18.mesh
+      - prop_limo/Meshes/prop_limo19.mesh
+      - prop_limo/Meshes/prop_limo2.mesh
+      - prop_limo/Meshes/prop_limo20.mesh
+      - prop_limo/Meshes/prop_limo21.mesh
+      - prop_limo/Meshes/prop_limo22.mesh
+      - prop_limo/Meshes/prop_limo23.mesh
+      - prop_limo/Meshes/prop_limo24.mesh
+      - prop_limo/Meshes/prop_limo25.mesh
+      - prop_limo/Meshes/prop_limo26.mesh
+      - prop_limo/Meshes/prop_limo27.mesh
+      - prop_limo/Meshes/prop_limo28.mesh
+      - prop_limo/Meshes/prop_limo29.mesh
+      - prop_limo/Meshes/prop_limo3.mesh
+      - prop_limo/Meshes/prop_limo30.mesh
+      - prop_limo/Meshes/prop_limo31.mesh
+      - prop_limo/Meshes/prop_limo32.mesh
+      - prop_limo/Meshes/prop_limo33.mesh
+      - prop_limo/Meshes/prop_limo34.mesh
+      - prop_limo/Meshes/prop_limo35.mesh
+      - prop_limo/Meshes/prop_limo36.mesh
+      - prop_limo/Meshes/prop_limo37.mesh
+      - prop_limo/Meshes/prop_limo38.mesh
+      - prop_limo/Meshes/prop_limo39.mesh
+      - prop_limo/Meshes/prop_limo4.mesh
+      - prop_limo/Meshes/prop_limo40.mesh
+      - prop_limo/Meshes/prop_limo41.mesh
+      - prop_limo/Meshes/prop_limo42.mesh
+      - prop_limo/Meshes/prop_limo43.mesh
+      - prop_limo/Meshes/prop_limo44.mesh
+      - prop_limo/Meshes/prop_limo45.mesh
+      - prop_limo/Meshes/prop_limo5.mesh
+      - prop_limo/Meshes/prop_limo6.mesh
+      - prop_limo/Meshes/prop_limo7.mesh
+      - prop_limo/Meshes/prop_limo8.mesh
+      - prop_limo/Meshes/prop_limo9.mesh
+      - prop_limo/prop_limo.prefab
+      - prop_oscar
+      - prop_oscar/.hidden
+      - prop_oscar/.hidden/blinn1SG.ss_graph
+      - prop_oscar/.hidden/white.jpg
+      - prop_oscar/Materials
+      - prop_oscar/Materials/blinn1SG.mat
+      - prop_oscar/Materials/blinn2SG.mat
+      - prop_oscar/Meshes
+      - prop_oscar/Meshes/oscar_base_mid.mesh
+      - prop_oscar/Meshes/oscar_statue_lo.mesh
+      - prop_oscar/prop_oscar.prefab
+      - prop_searchlight
+      - prop_searchlight/.hidden
+      - prop_searchlight/.hidden/searchlight_bulb.ss_graph
+      - prop_searchlight/.hidden/white.jpg
+      - prop_searchlight/Materials
+      - prop_searchlight/Materials/searchlight_bulb.mat
+      - prop_searchlight/Materials/searchlight_paintedMetal.mat
+      - prop_searchlight/Meshes
+      - prop_searchlight/Meshes/prop_searchlight_base.mesh
+      - prop_searchlight/Meshes/prop_searchlight_main.mesh
+      - prop_searchlight/Meshes/prop_searchlight_main1.mesh
+      - prop_searchlight/prop_searchlight.prefab
+      - prop_stanchions
+      - prop_stanchions/.hidden
+      - prop_stanchions/.hidden/stanchions_poles.ss_graph
+      - prop_stanchions/.hidden/white.jpg
+      - prop_stanchions/Materials
+      - prop_stanchions/Materials/stanchions_poles.mat
+      - prop_stanchions/Materials/stanchions_ropeEnds.mat
+      - prop_stanchions/Materials/stanchions_ropes.mat
+      - prop_stanchions/Meshes
+      - prop_stanchions/Meshes/stanchion_pole0.mesh
+      - prop_stanchions/Meshes/stanchion_pole1.mesh
+      - prop_stanchions/Meshes/stanchion_rope.mesh
+      - prop_stanchions/Meshes/stanchion_rope1.mesh
+      - prop_stanchions/prop_stanchions.prefab
+      - rotateOscillate.js
+      - rotateY.js
+      - simple_pbr.ss_graph
+      - uber_pbr.ss_graph
+  options: 4

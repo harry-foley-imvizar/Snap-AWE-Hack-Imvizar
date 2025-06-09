@@ -1,0 +1,62 @@
+- !<AssetImportMetadata/b438e567-64b9-4612-9a50-1c8a1aa876c7>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 856f55b1-e119-4229-8f88-9a0564ad7b40
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 856f55b1-e119-4229-8f88-9a0564ad7b40
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 7c76ab37-f9b1-4826-9573-afa46ddcbb48
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/7c76ab37-f9b1-4826-9573-afa46ddcbb48>
+  SvgIcon: ""
+  SetupScript:
+    code: |
+      // @input float rotationSpeed = 10.0
+      
+      // This script rotates the object around the Y-axis over time
+      
+      var transform = script.getTransform();
+      var updateEvent = script.createEvent("UpdateEvent");
+      
+      updateEvent.bind(function(eventData) {
+          // Get the current rotation
+          var currentRot = transform.getWorldRotation();
+      
+          // Convert to Euler angles
+          var euler = currentRot.toEulerAngles();
+      
+          // Increase Y rotation (in radians)
+          euler.y += script.rotationSpeed * getDeltaTime() * Math.PI / 180;
+      
+          // Apply new rotation
+          transform.setWorldRotation(quat.fromEulerAngles(euler));
+      });
+
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 3e65bc07-81dc-4c77-b30d-acd9cef46956
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
