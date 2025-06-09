@@ -3,3 +3,5 @@
 *.js text eol=lf
 *.json text eol=lf
 *.material text eol=lf
+*.animationAsset filter=lfs diff=lfs merge=lfs -text
+*.cache filter=lfs diff=lfs merge=lfs -text
